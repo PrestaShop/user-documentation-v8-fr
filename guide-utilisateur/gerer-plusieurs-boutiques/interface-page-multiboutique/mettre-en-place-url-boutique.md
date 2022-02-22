@@ -42,7 +42,7 @@ Pour mettre en place l'URL d'une boutique:
 
 **Options de l'URL:**&#x20;
 
-![](<../../../.gitbook/assets/image (49).png>)
+![](<../../../.gitbook/assets/image (48).png>)
 
 Boutique : Sélectionnez la boutique pour laquelle vous souhaitez mettre en place l'URL.
 
@@ -52,7 +52,7 @@ Statut : Toutes les URLs, à l'exception de l'URL principale, peuvent être dés
 
 **URL de votre boutique:**
 
-![](<../../../.gitbook/assets/image (52).png>)
+![](<../../../.gitbook/assets/image (50).png>)
 
 **Domain**e : Saisissez le nom de domaine de la boutique. Vous pouvez indiquer un sous-domaine si nécessaire. Assurez-vous simplement qu'il ne contient pas '`http://`', ou tout autre '`/`'. Exemple : `www.example.com` ou `kids.example.com`.&#x20;
 

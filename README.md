@@ -6,7 +6,7 @@ Tout comme le logiciel PrestaShop, la [documentation](https://docs.prestashop-pr
 
 GitBook et GitHub sont synchronisés : si vous modifiez le contenu de n'importe quelle page sur GitBook, vos modifications seront automatiquement poussées vers le repository GitHub. Inversement, les changements apportés sur GitHub seront pris en compte sur GitBook.
 
-Par conséquent, les deux interfaces sont ouvertes à la contribution.
+Par conséquent, les deux interfaces sont ouvertes à la contribution. .
 
 ### Contribuer via GitBook ![](<.gitbook/assets/image (46).png>)
 
@@ -16,7 +16,7 @@ Gitbook est un outil permettant d'écrire de la documentation. Il fonctionne com
 
 Le Product Content Manager  vous accueillera et vous donnera accès à la documentation en tant qu'éditeur. Vous devrez alors vous connecter avec un compte Gmail, GitHub, ou GitBook. Cliquez ici pour [créer un compte GitBook](https://app.gitbook.com).
 
-### Contribuer via GitHub ![](<.gitbook/assets/image (57).png>)
+### Contribuer via GitHub ![](<.gitbook/assets/image (54).png>)
 
 Chaque documentation est synchronisée avec un repository sur GitHub. Les deux interfaces sont ouvertes aux contributions. Cliquez sur votre langue pour visiter le repository correspondant : [anglais](https://github.com/PrestaShop/user-documentation-en), [français](https://github.com/PrestaShop/user-documentation-fr), [espagnol](https://github.com/PrestaShop/user-documentation-es), [italien](./#contribuer-via-gitbook), [néerlandais](https://github.com/PrestaShop/user-documentation-nl), [farsi](https://github.com/PrestaShop/user-documentation-fa).&#x20;
 

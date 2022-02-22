@@ -17,7 +17,7 @@ Cette fonctionnalité est particulièrement utile si vous vous trouvez dans l'un
 
 ## Activer la fonctionnalité multistore&#x20;
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 1. Allez sur la page **Paramètres Avancés > Général**.
 2. Activez la fonctionnalité multistore et enregistrez.

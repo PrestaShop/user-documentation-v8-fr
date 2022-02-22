@@ -86,7 +86,7 @@ Si la case est cochée la prochaine fois que vous vous rendrez sur la page, cela
 
 Par exemple, dans la capture d'écran ci-dessous, la case à côté du paramètre "Texte de maintenance" est cochée. Cela signifie que ce paramètre est personnalisé dans la boutique 1.
 
-![](<../../../.gitbook/assets/image (61).png>)
+![](<../../../.gitbook/assets/image (57).png>)
 
 {% hint style="info" %}
 Pour l'instant, cette fonctionnalité n'est disponible que sur la page **Paramètres de la boutique > Paramètres généraux > Maintenance.**
@@ -100,7 +100,7 @@ Grâce à la liste déroulante des paramètres spécifiques, si vous apportez de
 
 &#x20;Ainsi, si vous voyez cette liste déroulante à côté d'un paramètre, cela signifie que ce paramètre a été personnalisé dans au moins une boutique. Déployez la liste déroulante pour savoir quelle(s) boutique(s) est (sont) concerné(s).
 
-![](<../../../.gitbook/assets/image (59).png>)
+![](<../../../.gitbook/assets/image (55).png>)
 
 **Personnalisé :** Le paramètre a été modifié dans une boutique. ****&#x20;
 
