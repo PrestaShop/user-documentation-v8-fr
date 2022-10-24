@@ -12,7 +12,7 @@ Vous avez deux moyens de mettre en place cette fonctionnalité.
 
 ## Première solution : lors de la création du produit <a href="#mots-cles-premieresolution-lorsdelacreationduproduit" id="mots-cles-premieresolution-lorsdelacreationduproduit"></a>
 
-Vous pouvez directement associer plusieurs mots-clés à votre produit dans le champ "Mots-clés" de l'onglet "Options", tandis que vous créez un produit.&#x20;
+Vous pouvez directement associer plusieurs mots-clés à votre produit dans le champ "Mots-clés" de l'onglet "Référencement", tandis que vous créez un produit.
 
 ## Deuxième solution : créer et gérer les mots-clés <a href="#mots-cles-deuxiemesolution-creeretgererlesmots-cles" id="mots-cles-deuxiemesolution-creeretgererlesmots-cles"></a>
 
