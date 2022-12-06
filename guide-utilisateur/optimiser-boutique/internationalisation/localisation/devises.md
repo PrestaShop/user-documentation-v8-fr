@@ -6,7 +6,7 @@ PrestaShop accepte un grand nombre de devises. Au départ, seule une devise est 
 
 ## **Modifier la devise par défaut**
 
-Tous les taux de change des devises ajoutées (officielles ou alternatives) sont calculés à partir d’une unité de la devise par défaut de votre boutique. C’est pourquoi la devise par défaut de votre boutique doit être celle avec laquelle vous vous sentez le plus à l’aise.&#x20;
+Tous les taux de change des devises ajoutées (officielles ou alternatives) sont calculés à partir d’une unité de la devise par défaut de votre boutique. C’est pourquoi la devise par défaut de votre boutique doit être celle avec laquelle vous vous sentez le plus à l’aise.
 
 Pour modifier la devise par défaut de votre boutique :
 
@@ -16,7 +16,7 @@ Pour modifier la devise par défaut de votre boutique :
 
 ![](https://lh4.googleusercontent.com/chY2hJCmLZpvPO9ov7uu0YjBBs3hXsFg8xaAAwKOeFk7ghjEnfsABgmM9MbRDhYW4saubCjhFzDrhgkIvuQffmCefNb3YIfwrfqlRhYLHw3Bkf57YM7KmOuwrY1ew4WFlIkWYlqo)
 
-Si la devise que vous souhaitez définir comme devise par défaut n’est pas disponible dans la liste, vous devez l’ajouter : soit en important le pack de localisation d’un pays utilisant cette devise, soit en complétant le formulaire “Ajouter une nouvelle devise” (Voir “[Ajouter une nouvelle devise](https://prestashop.gitbook.io/documentation-en-francais-pour-prestashop-1-7/guide-de-lutilisateur/optimiser-votre-boutique/gerer-la-localisation-et-linternationalisation/localisation/devises#ajouter-une-nouvelle-devise)”).&#x20;
+Si la devise que vous souhaitez définir comme devise par défaut n’est pas disponible dans la liste, vous devez l’ajouter : soit en important le pack de localisation d’un pays utilisant cette devise, soit en complétant le formulaire “Ajouter une nouvelle devise” (Voir “[Ajouter une nouvelle devise](https://prestashop.gitbook.io/documentation-en-francais-pour-prestashop-1-7/guide-de-lutilisateur/optimiser-votre-boutique/gerer-la-localisation-et-linternationalisation/localisation/devises#ajouter-une-nouvelle-devise)”).
 
 ## **Ajouter une nouvelle devise**
 
@@ -24,7 +24,7 @@ Il y a deux façons d’ajouter une nouvelle devise :
 
 ### **1. Importer le pack de localisation d’un pays utilisant cette devise**
 
-Cela peut être fait depuis la page “Localisation” du menu “International”.&#x20;
+Cela peut être fait depuis la page “Localisation” du menu “International”.
 
 ![](https://lh4.googleusercontent.com/2AD9IZhZLFTOutUrmeLvhNID82TBaDkEBHJAn1B66TpBf3\_22DW8r9UvukeqQm8ebFKoF0llt1ht26Ck48\_pAC-XsxHTRVu56lsS0TL9Qt2EgTRVq4MqYh4rTGNZrqH1IDDuE-Zu)
 
@@ -40,9 +40,9 @@ Lorsque vous ajouter une devise manuellement, cette dernière est désactivée p
 
 ## **Créer une devise alternative**
 
-Vous pourriez avoir besoin d’ajouter une devise qui n’est incluse dans aucun des packs de localisation et qui n’est pas non plus disponible dans la liste de devises. Vous pouvez utiliser cette fonctionnalité pour ajouter n’importe quelle cyptomonaie, monnaie locale, etc. qui répond aux besoins de vos clients.&#x20;
+Vous pourriez avoir besoin d’ajouter une devise qui n’est incluse dans aucun des packs de localisation et qui n’est pas non plus disponible dans la liste de devises. Vous pouvez utiliser cette fonctionnalité pour ajouter n’importe quelle cyptomonaie, monnaie locale, etc. qui répond aux besoins de vos clients.
 
-1. Cliquez sur le bouton “Ajouter une nouvelle devise”&#x20;
+1. Cliquez sur le bouton “Ajouter une nouvelle devise”
 2. Cochez la case “Créer une devise alternative”
 3. Complétez les champs suivants :
 
@@ -50,11 +50,11 @@ Vous pourriez avoir besoin d’ajouter une devise qui n’est incluse dans aucun
 
 * **Nom de la devise.** Entrez le nom de la devise.
 * **Code ISO.** Entrer le code ISO 4217. Voir [Wikipedia ](https://fr.wikipedia.org/wiki/ISO\_4217#Liste\_tri%C3%A9e\_par\_nom\_d%E2%80%99unit%C3%A9\_mon%C3%A9taire)pour plus d’informations. Vous trouverez aussi les codes ISO non officiels ou ceux de devises alternatives comme le Bitcoin.
-* **Taux de change.** Ce taux est défini en fonction de la devise par défaut de votre boutique. Par exemple, si votre devise par défaut est l’euro et votre devise choisie est le dollar, tapez “1.20” (1€ = $1.20).&#x20;
-* **Décimales.** Nombre de chiffres après la virgule pour les prix sur votre boutique.&#x20;
-* **État.** Vous pouvez désactiver une devise à n’importe quel moment, à la fois sur la page d’édition et depuis la liste des devises sur la page “Devises”. Lorsque vous créez une nouvelle devise en utilisant le formulaire de création, cette dernière est désactivée par défaut.&#x20;
+* **Taux de change.** Ce taux est défini en fonction de la devise par défaut de votre boutique. Par exemple, si votre devise par défaut est l’euro et votre devise choisie est le dollar, tapez “1.20” (1€ = $1.20).
+* **Décimales.** Nombre de chiffres après la virgule pour les prix sur votre boutique.
+* **État.** Vous pouvez désactiver une devise à n’importe quel moment, à la fois sur la page d’édition et depuis la liste des devises sur la page “Devises”. Lorsque vous créez une nouvelle devise en utilisant le formulaire de création, cette dernière est désactivée par défaut.
 
-## **Modifier le symbole et le format**&#x20;
+## **Modifier le symbole et le format**
 
 Vous pouvez modifier le format et le symbole de chaque devise en fonction des langues installées sur votre boutique (qu’elles soient activées ou non).
 
@@ -72,14 +72,14 @@ Le carré blanc sera remplacé par le symbole une fois le champ “Symbole” co
 
 ## **Mettre à jour les taux de change**
 
-Un taux de change, ou taux de conversion, est le taux auquel une devise sera échangée contre une autre. Par exemple, un taux de conversion EUR/USD de 1,22 signifie que 1 euro est égal à 1,22 dollars.&#x20;
+Un taux de change, ou taux de conversion, est le taux auquel une devise sera échangée contre une autre. Par exemple, un taux de conversion EUR/USD de 1,22 signifie que 1 euro est égal à 1,22 dollars.
 
 Ainsi, si un produit vaut 15 euros, il coûtera 18,30 dollars (15\*1,22=18,3).
 
 Au contraire, si un produit vaut 15 dollars, il coûtera 12,30 euros (15/1,22=12,3).
 
 {% hint style="info" %}
-Les taux de change sur PrestaShop sont fournis par l’[ECB](https://www.ecb.europa.eu/home/html/index.fr.html) et sont mis à jour chaque jour. Cependant, ils peuvent être légèrement différents des taux en temps réel puisque ces derniers peuvent fluctuer considérablement en peu de temps.
+Les taux de change sur PrestaShop sont fournis par Fixer ([https://fixer.io](https://fixer.io/)) et sont mis à jour chaque jour. Cependant, ils peuvent être légèrement différents des taux en temps réel puisque ces derniers peuvent fluctuer considérablement en peu de temps.
 {% endhint %}
 
 N’oubliez pas de mettre les taux de change à jour régulièrement :
@@ -88,15 +88,15 @@ N’oubliez pas de mettre les taux de change à jour régulièrement :
 
 Pour mettre à jour les taux de change :
 
-1. Allez à la section “Taux de change” de la page “Devises”&#x20;
+1. Allez à la section “Taux de change” de la page “Devises”
 2. Cliquez sur le bouton “Mettre à jour”
 
 {% hint style="warning" %}
-Les taux de change des devises alternatives ne seront pas mis à jour. Vous devrez le faire manuellement. Par exemple, si vous avez ajouté le Bitcoin et souhaitez mettre le taux de change à jour, cliquez sur le symbole “Modifier” à côté du Bitcoin sur la liste des devises et entrez le taux de change à jour dans le champ correspondant. Si vous ajoutez des monnaies très volatiles, il est fortement recommandé d’utiliser un module qui peut mettre à jour les taux de change automatiquement.&#x20;
+Les taux de change des devises alternatives ne seront pas mis à jour. Vous devrez le faire manuellement. Par exemple, si vous avez ajouté le Bitcoin et souhaitez mettre le taux de change à jour, cliquez sur le symbole “Modifier” à côté du Bitcoin sur la liste des devises et entrez le taux de change à jour dans le champ correspondant. Si vous ajoutez des monnaies très volatiles, il est fortement recommandé d’utiliser un module qui peut mettre à jour les taux de change automatiquement.
 {% endhint %}
 
 Une simple recherche sur internet est généralement suffisante pour trouver le taux de change d’une monnaie. Vous pouvez utiliser des convertisseurs en ligne, comme XE.com :
 
-&#x20;[https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD)
+[https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD)
 
 Pour les cryptomonnaies, vous pouvez visiter le site web suivant : [https://coinmarketcap.com/](https://coinmarketcap.com)
