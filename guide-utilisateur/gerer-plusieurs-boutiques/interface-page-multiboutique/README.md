@@ -4,7 +4,9 @@
 
 ### Comprendre l'organisation de la page Multiboutique
 
-Lorsque la fonctionnalité multiboutique est activée, une nouvelle page est disponible dans le menu **Paramètres Avancés:** la page Multiboutique.&#x20;
+Pour accéder à la page Multiboutique, il faut d'abord [activer la fonctionnalité](../#activer-la-fonctionnalite-multistore) dans Paramètres Avancés > Général.&#x20;
+
+Une nouvelle page est alors disponible dans le menu **Paramètres Avancés :** la page Multiboutique.
 
 Cette page est divisée en 3 sections :
 
@@ -50,13 +52,11 @@ A partir de la version 1.7.8.0, l'interface multiboutique évolue et le menu dé
 
 ![](<../../../.gitbook/assets/image (42).png>)
 
-
-
 {% hint style="success" %}
-La couleur des boutiques et des groupes de boutiques peut être modifée sur la page **Paramètres Avancés > Multiboutique.** Ainsi, la couleur **** change en fonction du contexte dans lequel vous vous trouvez et vous pouvez savoir en un coup d'oeil sur quelles boutiques vous êtes en train de travailer.
+La couleur des boutiques et des groupes de boutiques peut être modifée sur la page **Paramètres Avancés > Multiboutique.** Ainsi, la couleur \*\*\*\* change en fonction du contexte dans lequel vous vous trouvez et vous pouvez savoir en un coup d'oeil sur quelles boutiques vous êtes en train de travailer.
 {% endhint %}
 
-### Appliquer des modifications à une boutique ou un groupe de boutiques&#x20;
+### Appliquer des modifications à une boutique ou un groupe de boutiques
 
 Pour appliquer des changements à une boutique spécifique ou un groupe de boutiques, changez de contexte avec la liste déroulante (ou l'en-tête, à partir de la version 1.7.8.0) et sélectionnez le groupe ou la boutique que vous voulez personnaliser.
 
@@ -67,11 +67,11 @@ L'interface peut être différente selon votre version de PrestaShop et la page 
 Dans un contexte de groupe de boutiques ou de boutique spécifique, de nouvelles options apparaissent sur la page, vous permettant de personnaliser les réglages de la boutique ou du groupe sélectionné.
 
 * Un bouton à bascule (Oui/Non).
-* Une case à cocher à côté de chaque paramètre à modifer.&#x20;
+* Une case à cocher à côté de chaque paramètre à modifer.
 
 **Pour faire des modifications :**
 
-1. Pour que tous les paramètres d'une section soient modifiables, réglez le bouton à bascule multiboutique sur "Oui". Si vous souhaitez uniquement personnaliser un paramètre spécifique, cochez la case correspondante.&#x20;
+1. Pour que tous les paramètres d'une section soient modifiables, réglez le bouton à bascule multiboutique sur "Oui". Si vous souhaitez uniquement personnaliser un paramètre spécifique, cochez la case correspondante.
 2. Une fois qu'un paramètre est modifiable, apportez vos modifications et enregistrez.
 
 {% hint style="info" %}
@@ -80,9 +80,9 @@ En réglant le bouton à bascule multiboutique sur "oui" ou en cochant une case,
 
 #### Les cases à cocher (à partir de la 1.7.8.0)
 
-Les cases à cocher sont affichées lorsque vous travaillez dans un contexte de groupes de boutiques ou de boutique spécifique. Elles vous permettent de modifier un paramètre pour un boutique spécifique ou un groupe de boutiques et de conserver une trace de cette modification.&#x20;
+Les cases à cocher sont affichées lorsque vous travaillez dans un contexte de groupes de boutiques ou de boutique spécifique. Elles vous permettent de modifier un paramètre pour un boutique spécifique ou un groupe de boutiques et de conserver une trace de cette modification.
 
-Si la case est cochée la prochaine fois que vous vous rendrez sur la page, cela signifie que le paramètre est personnalisé pour la boutique ou le groupe de boutiques sur lequel vous travaillez. En décochant la case, vous annulez la personnalisation et le paramètre prend la même valeur que dans le contexte "Toutes les boutiques" (ou le contexte du groupe, le cas échéant).&#x20;
+Si la case est cochée la prochaine fois que vous vous rendrez sur la page, cela signifie que le paramètre est personnalisé pour la boutique ou le groupe de boutiques sur lequel vous travaillez. En décochant la case, vous annulez la personnalisation et le paramètre prend la même valeur que dans le contexte "Toutes les boutiques" (ou le contexte du groupe, le cas échéant).
 
 Par exemple, dans la capture d'écran ci-dessous, la case à côté du paramètre "Texte de maintenance" est cochée. Cela signifie que ce paramètre est personnalisé dans la boutique 1.
 
@@ -98,11 +98,10 @@ Pour l'instant, cette fonctionnalité n'est disponible que sur la page **Paramè
 
 Grâce à la liste déroulante des paramètres spécifiques, si vous apportez des modifications à une seule boutique, et que vous revenez ensuite au contexte "Toutes les boutiques" ou groupe, vous pourrez facilement savoir quels paramètres ont été modifiés dans une boutique spécifique.
 
-&#x20;Ainsi, si vous voyez cette liste déroulante à côté d'un paramètre, cela signifie que ce paramètre a été personnalisé dans au moins une boutique. Déployez la liste déroulante pour savoir quelle(s) boutique(s) est (sont) concerné(s).
+Ainsi, si vous voyez cette liste déroulante à côté d'un paramètre, cela signifie que ce paramètre a été personnalisé dans au moins une boutique. Déployez la liste déroulante pour savoir quelle(s) boutique(s) est (sont) concerné(s).
 
 ![](<../../../.gitbook/assets/image (55).png>)
 
-**Personnalisé :** Le paramètre a été modifié dans une boutique. ****&#x20;
+**Personnalisé :** Le paramètre a été modifié dans une boutique. \*\*\*\*
 
 **Hérité :** Le paramètre est réglé de la même manière pour toutes les boutiques.
-
