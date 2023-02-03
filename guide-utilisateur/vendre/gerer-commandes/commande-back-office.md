@@ -10,7 +10,7 @@ description: >-
 
 :arrow\_right:[Contribuer](https://prestashop.gitbook.io/howtocontribute/)
 
-Créer une commande directement depuis le back office de votre boutique peut être très utile ! Imaginez que vous êtes au téléphone avec un client qui veut acheter un produit mais qui, pour une raison quelconque, n'y arrive pas. Vous pouvez lui proposer de créer la commande pour lui.&#x20;
+Créer une commande directement depuis le back office de votre boutique peut être très utile ! Imaginez que vous êtes au téléphone avec un client qui veut acheter un produit mais qui, pour une raison quelconque, n'y arrive pas. Vous pouvez lui proposer de créer la commande pour lui.
 
 ## Associer la commande à un client
 
@@ -20,7 +20,7 @@ Si vous avez besoin de plus d'informations sur un client, cliquez sur le bouton 
 
 :new:Si le client pour lequel vous créez cette commande ne dispose pas encore d'un compte utilisateur, vous pouvez en créer un en cliquant sur le bouton "Ajouter un nouveau client" et en remplissant le formulaire. Une fois enregistré, le client est automatiquement suggéré pour votre commande. Cliquez sur "Choisir" pour commencer à créer la commande.
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16) (1).png>)
 
 ## Accéder aux paniers abandonnés et aux commandes précédentes
 
@@ -32,20 +32,20 @@ Cela peut être très utile et vous faire gagner du temps ! Par exemple, si vous
 
 ## Ajouter un produit à la commande
 
-Si vous ne souhaitez pas utiliser un panier abandonné ni une commande précédente, utilisez le champ "Rechercher un produit".&#x20;
+Si vous ne souhaitez pas utiliser un panier abandonné ni une commande précédente, utilisez le champ "Rechercher un produit".
 
-* Tapez les premières lettres du nom du produit&#x20;
+* Tapez les premières lettres du nom du produit
 * Dans la liste déroulante, choisissez le produit que vous souhaitez ajouter
-* Si le produit en a, sélectionnez une combinaison&#x20;
+* Si le produit en a, sélectionnez une combinaison
 * Si le produit est personnalisable, ajoutez votre texte
-* Saisir ou sélectionner une quantité&#x20;
-* Cliquez sur le bouton "Ajouter au panier" pour valider&#x20;
+* Saisir ou sélectionner une quantité
+* Cliquez sur le bouton "Ajouter au panier" pour valider
 
 PrestaShop vous indique le stock disponible, juste en dessous du champ "Quantité". De cette façon, vous pouvez dire à votre client par téléphone si un produit est en rupture de stock, sans avoir à ouvrir un autre onglet.
 
 ## Ajouter un bon de réduction
 
-Une fois la commande créée, vous pouvez ajouter un bon d'achat existant ou en créer un nouveau en cliquant sur le bouton "Ajouter bon d'achat".&#x20;
+Une fois la commande créée, vous pouvez ajouter un bon d'achat existant ou en créer un nouveau en cliquant sur le bouton "Ajouter bon d'achat".
 
 Pour en savoir plus sur la manière de créer une règle panier, consultez la page de documentation correspondante :
 
@@ -55,31 +55,31 @@ Pour en savoir plus sur la manière de créer une règle panier, consultez la pa
 
 ## Modifier/Ajouter une adresse
 
-L'adresse de livraison et l'adresse de facturation peuvent être différentes si la personne qui va recevoir le colis n'est pas celle qui l'a payé.&#x20;
+L'adresse de livraison et l'adresse de facturation peuvent être différentes si la personne qui va recevoir le colis n'est pas celle qui l'a payé.
 
-### Modifier une adresse&#x20;
+### Modifier une adresse
 
 Dans la plupart des cas, les champs Adresses sont pré-remplis. Vous pouvez toujours modifier l'adresse en cliquant sur le bouton "Modifier".
 
-### Ajouter une nouvelle adresse&#x20;
+### Ajouter une nouvelle adresse
 
 Si vous venez de créer le compte client, vous devrez ajouter son adresse. Cliquez sur le bouton "Ajouter une nouvelle adresse" et remplissez le formulaire. Cette étape est obligatoire afin de procéder à la commande.
 
 ## Organiser la livraison
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17) (1).png>)
 
 Dans la section Livraison, vous pouvez choisir un mode de livraison dans la liste déroulante. Votre choix détermine automatiquement le prix de la livraison.
 
-Si vous souhaitez offrir les frais de port à votre client, cliquez sur "Oui".&#x20;
+Si vous souhaitez offrir les frais de port à votre client, cliquez sur "Oui".
 
 ## Organiser le paiement
 
-Vérifiez le récapitulatif de la commande. Est-ce que tout est en ordre ? Si oui, vous pouvez finaliser la commande en organisant le paiement.&#x20;
+Vérifiez le récapitulatif de la commande. Est-ce que tout est en ordre ? Si oui, vous pouvez finaliser la commande en organisant le paiement.
 
-### Envoyer la commande pré-remplie au client par e-mail&#x20;
+### Envoyer la commande pré-remplie au client par e-mail
 
-Une façon de compléter la commande est d'envoyer la commande pré-remplie avec les informations que vous avez entrées (articles dans le panier, adresse de livraison, etc.) au client, afin qu'il puisse finaliser la commande lui-même. Le client pourra alors revérifier les informations, les modifier si nécessaire, et entrer un mode de paiement pour finaliser la commande.&#x20;
+Une façon de compléter la commande est d'envoyer la commande pré-remplie avec les informations que vous avez entrées (articles dans le panier, adresse de livraison, etc.) au client, afin qu'il puisse finaliser la commande lui-même. Le client pourra alors revérifier les informations, les modifier si nécessaire, et entrer un mode de paiement pour finaliser la commande.
 
 ### Finaliser la commande sur le front-office
 

@@ -19,7 +19,7 @@ Le bouton "Ajouter une clé de webservice" vous emmène au formulaire de créati
 * **Statut**. Vous pouvez désactiver une clé aussitôt que nécessaire. Cela vous permet de ne donner qu'un accès temfporaire à vos données pour certaines clés.
 * **Permissions**. Vous n'avez pas à partager TOUTES vos données avec chaque clé. Vous pouvez choisir parmi une grande quantité de permissions, soit par section, soit par type d'accès. Certaines applications n'auront ainsi que le droit de lire une poignée d'éléments, tandis que d'autres (par exemple, celle que vous souhaitez utiliser pour gérer votre boutique à distance) devront avoir le droit de modifier et effacer à peu près toutes les données. Par conséquent, nous vous recommandons de faire un choix éclairé.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Configuration <a href="#parametresduserviceweb-configuration" id="parametresduserviceweb-configuration"></a>
 

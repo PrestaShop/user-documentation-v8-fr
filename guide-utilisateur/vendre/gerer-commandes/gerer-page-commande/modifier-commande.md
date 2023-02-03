@@ -15,11 +15,11 @@ Il y a deux endroits sur la page commande où vous pouvez mettre à jour son sta
 
 Sélectionnez l'état souhaité dans la liste déroulante et cliquez sur le bouton "Mettre à jour l'état".
 
-![](<../../../../.gitbook/assets/image (7).png>)
+![](<../../../../.gitbook/assets/image (7) (1).png>)
 
 Vous avez le choix entre plusieurs états :
 
-![](<../../../../.gitbook/assets/image (8).png>)
+![](<../../../../.gitbook/assets/image (8) (1).png>)
 
 {% hint style="info" %}
 D'autres états pourraient être disponibles dans cette liste en fonction des modules installés sur votre boutique.
@@ -61,7 +61,7 @@ Si l'état de la commande est en cours de préparation, un bon de livraison au f
 
 ### Ajouter un produit à la commande
 
-![](<../../../../.gitbook/assets/image (10).png>)
+![](<../../../../.gitbook/assets/image (10) (1).png>)
 
 En bas de la liste des produits :
 
@@ -105,7 +105,7 @@ L'**adresse de livraison** est l'adresse où le colis sera envoyé, tandis que l
 
 Si un client vous demande de modifier l'une de ces deux adresses, allez dans la section Client et cliquez sur le menu latéral à côté du champ "Adresse de livraison" ou "Adresse de facturation". Vous pouvez modifier l'adresse existante ou sélectionner une autre adresse, dans la liste des adresses fournies par le client.
 
-![](<../../../../.gitbook/assets/image (11).png>)
+![](<../../../../.gitbook/assets/image (11) (1).png>)
 
 Si l'adresse que vous souhaitez associer à la commande n'est pas déjà enregistrée dans PrestaShop, vous devez d'abord la créer :
 
@@ -114,7 +114,7 @@ Si l'adresse que vous souhaitez associer à la commande n'est pas déjà enregis
 * Remplissez le formulaire et sauvegardez
 * Retournez à la page des détails de la commande et sélectionnez l'adresse que vous venez d'ajouter dans la liste déroulante.
 
-![Section Addresses de la page Client](<../../../../.gitbook/assets/image (12).png>)
+![Section Addresses de la page Client](<../../../../.gitbook/assets/image (12) (1).png>)
 
 ## Gérer les paiements et les réductions
 
@@ -128,7 +128,7 @@ Pour enregistrer un nouveau paiement, allez à la section Paiements de la page C
 * Sélectionnez la facture sur laquelle vous souhaitez que ce paiement apparaisse
 * Cliquez sur le bouton "Ajouter" pour sauvegarder
 
-![](<../../../../.gitbook/assets/image (13).png>)
+![](<../../../../.gitbook/assets/image (13) (1).png>)
 
 ### Ajouter une réduction
 
