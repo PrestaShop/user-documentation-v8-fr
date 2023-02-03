@@ -9,9 +9,9 @@ PrestaShop est très facile à installer. Une fois que tous les fichiers sont su
 
 Avant de commencer, assurez-vous que toutes les exigences sont remplies : espace serveur chez un fournisseur d’hébergement, nom de domaine, client FTP et éditeur de texte. Veillez d’abord à suivre les instructions figurant dans la section “[Ce dont vous avez besoin pour commencer](ce-dont-vous-avez-besoin.md)”.
 
-Notre partenaire d’hébergement web 1&1 IONOS vous propose une installation en 1 clic pour vous faire gagner du temps et vous aider à démarrer encore plus vite. Le temps d’installation peut ainsi être considérablement réduit pour les utilisateurs inexpérimentés.&#x20;
+Notre partenaire d’hébergement web 1&1 IONOS vous propose une installation en 1 clic pour vous faire gagner du temps et vous aider à démarrer encore plus vite. Le temps d’installation peut ainsi être considérablement réduit pour les utilisateurs inexpérimentés.
 
-* [1&1 IONOS Hosting](https://www.ionos.fr/solutions-ecommerce/hebergement-prestashop?ac=OM.FR.FRs96K414092T7073a)&#x20;
+* [1&1 IONOS Hosting](https://www.ionos.fr/solutions-ecommerce/hebergement-prestashop?ac=OM.FR.FRs96K414092T7073a)
 
 Ces hébergeurs web utilisent principalement les bibliothèques de scripts suivantes :
 
@@ -34,7 +34,7 @@ Voici un ensemble d’instructions rapides pour les utilisateurs qui connaissent
 5. Suivez les instructions affichées sur chaque écran de l’installeur.
 6. Une fois l’installation terminée, supprimez le dossier `/install` et notez le nouveau nom du dossier `/admin`, nom que vous seul connaissez pour des raisons de sécurité.
 
-PrestaShop est désormais installé et prêt à être configuré ! Consultez maintenant le chapitre [Premiers pas avec PrestaShop 1.7](http://doc.prestashop.com/display/PS17/Premiers+pas+avec+PrestaShop+1.7) du guide de l’utilisateur.
+PrestaShop est désormais installé et prêt à être configuré ! Consultez maintenant le chapitre [Premiers pas avec PrestaShop 8](http://doc.prestashop.com/display/PS17/Premiers+pas+avec+PrestaShop+1.7) du guide de l’utilisateur.
 
 ## Instructions détaillées
 
@@ -51,7 +51,7 @@ Si vous avez besoin de télécharger une version antérieure, rendez-vous à cet
 Il n’est pas conseillé d’utiliser une autre version que la version stable actuelle.
 
 \
-Cliquez sur le bouton “Télécharger” et enregistrez l’archive sur votre ordinateur (par exemple, sur votre Bureau). Vous devez obtenir un fichier nommé “prestashop\_1.7.0.0.zip” (ou équivalent, selon le numéro de version).
+Cliquez sur le bouton “Télécharger” et enregistrez l’archive sur votre ordinateur (par exemple, sur votre Bureau). Vous devez obtenir un fichier nommé “prestashop\_8.0.0.zip” (ou équivalent, selon le numéro de version).
 
 Le fichier téléchargé est une archive .zip. Pour poursuivre le processus, **vous devez décompresser l’archive**.
 
@@ -148,7 +148,7 @@ Cette deuxième page énonce une condition simple : PrestaShop est gratuit et di
 
 Lisez les licences de PrestaShop :
 
-* _Open Software License 3.0_ de PrestaShop, également consultable sur la page [http://www.opensource.org/licenses/OSL-3.0](http://www.opensource.org/licenses/OSL-3.0).&#x20;
+* _Open Software License 3.0_ de PrestaShop, également consultable sur la page [http://www.opensource.org/licenses/OSL-3.0](http://www.opensource.org/licenses/OSL-3.0).
 * _Academic Free License 3.0_ pour les modules et les thèmes, également consultable à la page [http://opensource.org/licenses/AFL-3.0](http://opensource.org/licenses/AFL-3.0).
 
 ![](../.gitbook/assets/53641242.png)
@@ -214,7 +214,7 @@ Connectez-vous à votre compte de serveur à l’aide de votre client FTP, navig
 
 CHMOD
 
-Modifier les permissions d’accès d’un fichier ou d’un dossier sur un système Unix/Linux se nomme “CHMOD”, d’après la commande du même nom (voir : [https://fr.wikipedia.org/wiki/Chmod](http://en.wikipedia.org/wiki/Chmod) – vous trouverez une explication des permissions de fichiers ici : [http://www.math-linux.com/linux-2/tutoriels-linux/article/droit-et-permission-d-acces-aux-fichiers](http://www.elated.com/articles/understanding-permissions/)). \
+Modifier les permissions d’accès d’un fichier ou d’un dossier sur un système Unix/Linux se nomme “CHMOD”, d’après la commande du même nom (voir : [https://fr.wikipedia.org/wiki/Chmod](http://en.wikipedia.org/wiki/Chmod) – vous trouverez une explication des permissions de fichiers ici : [http://www.math-linux.com/linux-2/tutoriels-linux/article/droit-et-permission-d-acces-aux-fichiers](http://www.elated.com/articles/understanding-permissions/)).\
 Donner un “accès en écriture” à des fichiers ou dossiers se dit “faire un CHMOD 755” ou “un CHMOD 775”, en fonction de l’hébergeur.
 
 Certains hébergeurs peuvent vous demander d’utiliser CHMOD 777 bien que cela ne soit recommandé que pour un besoin ponctuel.\
@@ -230,7 +230,7 @@ En fonction de la configuration de votre serveur (sur laquelle vous n’avez pas
 Il peut également être nécessaire de modifier les permissions d’accès aux fichiers et aux sous-dossiers de certains dossiers. Dans ce cas, cochez la case “Récursion dans les sous-répertoires”.
 
 Si vous modifiez les permissions dans votre client FTP, vous devez régulièrement vérifier que vous avez effectué les bonnes modifications en exécutant à nouveau les tests de compatibilité de l’installeur : cliquez sur “Rafraîchir ces informations” aussi souvent que nécessaire.\
-&#x20;Une fois tous les indicateurs verts, vous pouvez cliquer sur “Suivant”. Si vous n’arrivez pas à faire en sorte qu’ils soient tous verts, assurez-vous au moins que l’installeur affiche le message “La compatibilité de PrestaShop avec votre environnement système a été vérifiée !” en haut de la page.
+Une fois tous les indicateurs verts, vous pouvez cliquer sur “Suivant”. Si vous n’arrivez pas à faire en sorte qu’ils soient tous verts, assurez-vous au moins que l’installeur affiche le message “La compatibilité de PrestaShop avec votre environnement système a été vérifiée !” en haut de la page.
 
 **Informations de la boutique**
 
@@ -296,12 +296,12 @@ Pour renforcer facilement la sécurité de votre installation, supprimez certain
 Cliquez sur le bouton “Gérer votre boutique” afin d’atteindre votre zone d’administration.
 
 Un autre moyen de sécuriser votre installation est d’utiliser un nom personnalisé pour le dossier d’administration : remplacez le nom du dossier “admin” par un nom que vous seul connaissez comme “4dmin-1537” ou “MySecReT4dm1n”.\
-**** **Notez le nouveau nom de votre dossier “admin”** car vous accéderez désormais à vos pages d’administration en utilisant cette adresse !
+\*\*\*\* **Notez le nouveau nom de votre dossier “admin”** car vous accéderez désormais à vos pages d’administration en utilisant cette adresse !
 
 Enfin, pour éviter tout risque d’action malveillante, utilisez votre client FTP pour changer les permissions d’accès aux fichiers et dossiers en 664 ou en 666 si votre hébergeur l’impose. Si ces droits d’accès plus stricts empêchent certains modules de fonctionner, remettez les permissions en 755.
 
 **Félicitations ! L’installation est à présent terminée.**
 
-Connectez-vous au back-office de PrestaShop en accédant à votre dossier “admin” que vous avez renommé et commencez à remplir votre catalogue avec des produits, en ajoutant les transporteurs et les frais d’expédition, en ajoutant des marques et des fournisseurs, en modifiant le thème et, de manière générale, en configurant les paramètres afin qu’ils correspondent à vos goûts et besoins. Consultez le chapitre “Premiers pas avec PrestaShop 1.7” du guide de l’utilisateur pour plus d’informations : [http://doc.prestashop.com/display/PS17/Premiers+pas+avec+PrestaShop+1.7](installer-prestashop.md).
+Connectez-vous au back-office de PrestaShop en accédant à votre dossier “admin” que vous avez renommé et commencez à remplir votre catalogue avec des produits, en ajoutant les transporteurs et les frais d’expédition, en ajoutant des marques et des fournisseurs, en modifiant le thème et, de manière générale, en configurant les paramètres afin qu’ils correspondent à vos goûts et besoins. Consultez le chapitre “Premiers pas avec PrestaShop 8” du guide de l’utilisateur pour plus d’informations : [http://doc.prestashop.com/display/PS17/Premiers+pas+avec+PrestaShop+8](installer-prestashop.md).
 
 Il est recommandé de faire régulièrement des sauvegardes de votre base de données et de vos fichiers, dans l’idéal sur plusieurs ordinateurs, afin de parer à toute perte de données suite à un problème matériel ou un piratage.

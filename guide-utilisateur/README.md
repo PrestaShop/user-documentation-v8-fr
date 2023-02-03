@@ -1,6 +1,6 @@
 # Guide de l'utilisateur
 
-## Guide de l'utilisateur PrestaShop 1.7
+## Guide de l'utilisateur PrestaShop 8
 
 PrestaShop propose une interface complète et intuitive, donnant accès à des centaines de fonctions standards que vous pouvez adapter ou personnaliser afin de répondre au mieux à vos besoins spécifiques.
 
@@ -14,7 +14,7 @@ Chapitres de ce guide :
 * [Personnaliser votre boutique](personnaliser-boutique.md)
 * [Se connecter au back office de PrestaShop](connexion-back-office.md)
 * [Découvrir la zone d'administration](decouvrir-zone-administration.md)
-* [Premiers pas avec PrestaShop 1.7](premiers-pas.md)
+* [Premiers pas avec PrestaShop 8](premiers-pas.md)
 * [Vendre avec PrestaShop](vendre/)
   * [Gérer les commandes](vendre/gerer-commandes/)
   * [Gérer le catalogue](vendre/gerer-catalogue/)

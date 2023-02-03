@@ -1,8 +1,8 @@
-# Premiers pas avec PrestaShop 1.7
+# Premiers pas avec PrestaShop 8
 
 **Contenu**
 
-* [Premiers pas avec PrestaShop 1.7](premiers-pas.md#PremierspasavecPrestaShop1.7-PremierspasavecPrestaShop1.7)
+* [Premiers pas avec PrestaShop 8](premiers-pas.md#PremierspasavecPrestaShop1.7-PremierspasavecPrestaShop1.7)
   * [Désactiver votre boutique](premiers-pas.md#desactiver-votre-boutique)
   * [Effacer le contenu de la boutique par défaut](premiers-pas.md#effacer-le-contenu-de-la-boutique-par-defaut)
   * [Configurer les informations de votre boutique](premiers-pas.md#PremierspasavecPrestaShop1.7-Configurerlesinformationsdevotreboutique)
@@ -18,7 +18,7 @@
   * [Construire votre menu](premiers-pas.md#PremierspasavecPrestaShop1.7-Construirevotremenu)
   * [Activez votre boutique](premiers-pas.md#PremierspasavecPrestaShop1.7-Activezvotreboutique)
 
-## Premiers pas avec PrestaShop 1.7 <a href="#premierspasavecprestashop1.7-premierspasavecprestashop1.7" id="premierspasavecprestashop1.7-premierspasavecprestashop1.7"></a>
+## Premiers pas avec PrestaShop 8 <a href="#premierspasavecprestashop1.7-premierspasavecprestashop1.7" id="premierspasavecprestashop1.7-premierspasavecprestashop1.7"></a>
 
 Il vous faut prendre le temps de vous assurer que toutes les fonctionnalités de votre future boutique sont bien en place, validées et prêtes à prendre vos premières commandes.
 
@@ -36,7 +36,7 @@ Dans votre back-office, rendez-vous dans la page "Paramètres de la boutique / P
 
 * **Activer la boutique**. Choisissez "Non", et l'accueil de votre site affichera la page de maintenance à vos visiteurs, qui indique simplement que votre site sera bientôt de retour.
 * **IP de maintenance**. C'est ici que vous devez saisir votre propre adresse IP, afin de toujours pouvoir accéder à votre boutique et parcourir les pages, pour vérifier que tout est bien en place. Cette option doit être remplie à chaque fois que vous mettez votre boutique en mode de maintenance, étant donné que vous aurez toujours besoin de vos pages publiques pour vérifier que tout es bien en place.
-* **Message de maintenance personnalisé**. Nouveau en 1.7. Vous pouvez afficher le message de votre choix sur la page de maintenance, pour informer vos visiteurs (pour indiquer par exemple quand votre boutique sera de nouveau disponible).
+* **Message de maintenance personnalisé**. Vous pouvez afficher le message de votre choix sur la page de maintenance, pour informer vos visiteurs (pour indiquer par exemple quand votre boutique sera de nouveau disponible).
 
 Si vous avez déjà mis en place votre thème et vos produits, vous pouvez simplement passer votre boutique en mode Catalogue. Ainsi, vos visiteurs pourront parcourir les pages de votre boutique, mais aucun prix ne sera affiché, et ils ne pourront rien acheter tant que vous ne serez pas sorti du mode Catalogue.
 

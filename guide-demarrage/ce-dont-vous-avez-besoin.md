@@ -2,22 +2,22 @@
 
 ## Instructions de configuration rapides <a href="#cedontvousavezbesoin-instructionsdeconfigurationrapides" id="cedontvousavezbesoin-instructionsdeconfigurationrapides"></a>
 
-Voici une synthèse de ce dont vous avez besoin pour commencer l’installation de PrestaShop 1.7. Vous trouverez, si nécessaire, des instructions plus détaillées dans les sections suivantes.
+Voici une synthèse de ce dont vous avez besoin pour commencer l’installation de PrestaShop 8. Vous trouverez, si nécessaire, des instructions plus détaillées dans les sections suivantes.
 
 * Configuration requise :
   * PHP 7.1 ou version ultérieure.
-    * Réglages utiles (dans le fichier `php.ini`) :&#x20;
-      * `allow_url_fopen` réglé sur “On” (Activé),&#x20;
+    * Réglages utiles (dans le fichier `php.ini`) :
+      * `allow_url_fopen` réglé sur “On” (Activé),
       * `register_globals` réglé sur “Off” (Désactivé)`,`
       * `upload_max_filesize` réglé sur “16M” (ou plus).
     * Extensions PHP indispensables (dans le fichier `php.ini`) : CURL, DOM, Fileinfo, GD, Intl, Mbstring, Zip, JSON, Iconv.
     * Outils serveur utiles : cron/crontab, Memcached.
   * MySQL 5.6 ou version ultérieure.
-  * Pour un meilleur fonctionnement :&#x20;
+  * Pour un meilleur fonctionnement :
     * Hébergeur Unix/Linux.
     * Serveur web Apache 2.2 (ou version ultérieure) ou serveur web Nginx.
-      * Paramètres des modules Apache :&#x20;
-        * `mod_rewrite` activé,&#x20;
+      * Paramètres des modules Apache :
+        * `mod_rewrite` activé,
         * `mod_security` désactivé,
         * `mod_auth_basic` désactivé.
     * Au moins 256 Mo de RAM dédiée à PHP. Plus la mémoire sera élevée, meilleures seront les performances.
@@ -82,7 +82,7 @@ Quel que soit le service d’hébergement que vous choisissez, les composants su
 
 * **Système** : Unix, Linux ou Windows. Unix est fortement recommandé.
 * **Serveur web** : Serveur web Apache 2.2 ou version ultérieure.
-* **PHP 7.1 ou version ultérieure**.&#x20;
+* **PHP 7.1 ou version ultérieure**.
 * **MySQL 5.6 ou version ultérieure**.
 * Au moins 256 Mo de RAM sur votre serveur.
 
@@ -159,7 +159,7 @@ Dans un premier temps, vous devez décider de l’endroit où héberger PrestaSh
 * Dans un sous-domaine : [http://boutique.exemple.com/](http://store.example.com)
 * Dans le dossier d’un sous-domaine : [http://vêtements.exemple.com/boutique/](http://clothes.example.com/boutique/)
 
-Grâce à la fonctionnalité multiboutique, vous pouvez avoir autant de boutiques que vous le souhaitez avec une seule installation de PrestaShop 1.7, chacune avec son propre nom de domaine si nécessaire. Tenez-en compte lorsque vous décidez de votre organisation.
+Grâce à la fonctionnalité multiboutique, vous pouvez avoir autant de boutiques que vous le souhaitez avec une seule installation de PrestaShop 8, chacune avec son propre nom de domaine si nécessaire. Tenez-en compte lorsque vous décidez de votre organisation.
 
 \
-&#x20;Quel que soit votre plan, la boutique par défaut résidera toujours à l’endroit où se trouve PrestaShop.
+Quel que soit votre plan, la boutique par défaut résidera toujours à l’endroit où se trouve PrestaShop.
