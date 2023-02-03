@@ -16,29 +16,29 @@ Divisée en **6 sections**, la page vous donne accès à tous les détails d'une
 
 :arrow\_up:En **haut de la page**, se trouve un **résumé rapide de la commande** contenant :
 
-* la référence de la commande&#x20;
-* le nom du client&#x20;
-* le montant total&#x20;
+* la référence de la commande
+* le nom du client
+* le montant total
 * la date et l'heure de validation
 
-![](../../../../.gitbook/assets/image.png)
+![](<../../../../.gitbook/assets/image (13).png>)
 
 :arrow\_upper\_left:Dans le **coin supérieur gauche**, la **section Client** vous donne des informations sur le client et le commentaire privé. Vous pouvez même accéder au dossier personnel du client pour voir plus de détails.
 
-![](<../../../../.gitbook/assets/image (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1).png>)
 
 :arrow\_upper\_right:Dans le **coin supérieur droit**, la **section Produits** vous donne accès à divers détails sur les produits commandés.
 
-![](<../../../../.gitbook/assets/image (2).png>)
+![](<../../../../.gitbook/assets/image (2) (1).png>)
 
 :arrow\_down\_small:Juste **en dessous de la section Produits**, il y a une **section administrative** qui contient quatre onglets qui vous donnent accès à :
 
 * l'état et l'historique de la commande
-* les documents liés à la commande (ex : facture, bon de livraison, etc.)&#x20;
+* les documents liés à la commande (ex : facture, bon de livraison, etc.)
 * les informations relatives à la livraison
 * les retours produit
 
-![](<../../../../.gitbook/assets/image (3).png>)
+![](<../../../../.gitbook/assets/image (3) (1).png>)
 
 :arrow\_lower\_right:Dans le **coin inférieur droit**, la **section Paiement** vous donne des informations sur les détails du paiement (date de la transaction, méthode utilisée, montant total, etc.) Vous pouvez également enregistrer un nouveau paiement.
 

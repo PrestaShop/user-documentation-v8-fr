@@ -17,7 +17,7 @@ Cette section vous présente une large liste de packs de localisation existant. 
 
     Vous ne devez activer cette option que si vous importez un pack de localisation pour le pays par défaut, car elle modifiera l'affichage des taxes pour tous vos groupes et pays.
 
-    ![](../../../../.gitbook/assets/64225441.png)
+    <img src="../../../../.gitbook/assets/64225441.png" alt="" data-size="original">
 
 Comme vous pouvez le constater, ces contenus à importer sont facultatifs : vous pouvez par exemple choisir de n'importer que la monnaie et la langue d'un pays donné, et pas ses taxes. Bien qu'il faille faire attention de ne pas ajouter trop de données locales pour ne pas submerger à la fois vos clients et vous-même, il peut se révéler utile d'importer les packs de localisation des pays d'où proviennent le plus gros de vos visiteurs (selon vos statistiques).
 

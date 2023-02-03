@@ -8,12 +8,12 @@ description: >-
 
 ## Mettre à jour l'état de la commande
 
-&#x20;Il y a deux endroits sur la page commande où vous pouvez mettre à jour son statut :
+Il y a deux endroits sur la page commande où vous pouvez mettre à jour son statut :
 
-* Dans le coin supérieur gauche de la page, à côté des boutons d'action.&#x20;
-* Dans l'onglet "État"&#x20;
+* Dans le coin supérieur gauche de la page, à côté des boutons d'action.
+* Dans l'onglet "État"
 
-Sélectionnez l'état souhaité dans la liste déroulante et cliquez sur le bouton "Mettre à jour l'état".&#x20;
+Sélectionnez l'état souhaité dans la liste déroulante et cliquez sur le bouton "Mettre à jour l'état".
 
 ![](<../../../../.gitbook/assets/image (7).png>)
 
@@ -22,7 +22,7 @@ Vous avez le choix entre plusieurs états :
 ![](<../../../../.gitbook/assets/image (8).png>)
 
 {% hint style="info" %}
-D'autres états pourraient être disponibles dans cette liste en fonction des modules installés sur votre boutique.&#x20;
+D'autres états pourraient être disponibles dans cette liste en fonction des modules installés sur votre boutique.
 {% endhint %}
 
 Afin d'avoir un meilleur aperçu de l'activité de la commande, chaque changement d'état est enregistré dans l'onglet "État" de la section administrative, ainsi que son auteur et la date/heure de mise à jour.
@@ -37,38 +37,38 @@ Afin d'avoir un meilleur aperçu de l'activité de la commande, chaque changemen
 
 ## Accéder aux documents de la commande
 
-Vous pouvez obtenir de nombreux documents PDF à partir de la page commande. Lorsqu'ils sont disponibles, ils sont répertoriés dans l'onglet Documents de la section administrative.&#x20;
+Vous pouvez obtenir de nombreux documents PDF à partir de la page commande. Lorsqu'ils sont disponibles, ils sont répertoriés dans l'onglet Documents de la section administrative.
 
-* **Imprimer/télécharger la commande**&#x20;
+* **Imprimer/télécharger la commande**
 
-Vous pouvez imprimer ou télécharger la commande au format PDF en cliquant sur le bouton "Imprimer la commande" en haut de la page.&#x20;
+Vous pouvez imprimer ou télécharger la commande au format PDF en cliquant sur le bouton "Imprimer la commande" en haut de la page.
 
-* **Télécharger/générer une facture**&#x20;
+* **Télécharger/générer une facture**
 
 Vous pouvez télécharger la facture en cliquant sur le bouton "Voir la facture" en haut de la page. Vous pouvez également accéder à la facture ou la générer dans l'onglet "Documents".
 
 :arrow\_right:Dans l'onglet Documents, vous pouvez ajouter une note à la facture qui apparaîtra juste en dessous du tableau des taxes sur la facture.
 
 {% hint style="success" %}
-Voici un conseil pour les commerçants les plus à l'aise en informatique : Vous pouvez personnaliser la présentation de la facture ! Les fichiers modèles PDF se trouvent dans le dossier /pdf. Ces fichiers .tpl sont en fait des fichiers HTML avec des balises Smarty pour les données dynamiques. Vous pouvez modifier la présentation de la facture en éditant le fichier nommé "invoice.tpl".&#x20;
+Voici un conseil pour les commerçants les plus à l'aise en informatique : Vous pouvez personnaliser la présentation de la facture ! Les fichiers modèles PDF se trouvent dans le dossier /pdf. Ces fichiers .tpl sont en fait des fichiers HTML avec des balises Smarty pour les données dynamiques. Vous pouvez modifier la présentation de la facture en éditant le fichier nommé "invoice.tpl".
 {% endhint %}
 
-* **Télécharger le bon de livraison**&#x20;
+* **Télécharger le bon de livraison**
 
 Si l'état de la commande est en cours de préparation, un bon de livraison au format PDF est automatiquement généré. Vous pouvez le télécharger à partir de l'onglet Documents ou cliquer sur le bouton "Afficher le bon de livraison" en haut de la page.
 
 ## Modifier le contenu de la commande
 
-### &#x20;Ajouter un produit à la commande
+### Ajouter un produit à la commande
 
 ![](<../../../../.gitbook/assets/image (10).png>)
 
-En bas de la liste des produits :&#x20;
+En bas de la liste des produits :
 
 * Cliquez sur le bouton "Ajouter un produit"
 * Entrez le nom du produit
-* Sélectionnez le produit que vous souhaitez ajouter&#x20;
-* Ajustez la quantité&#x20;
+* Sélectionnez le produit que vous souhaitez ajouter
+* Ajustez la quantité
 * Choisissez sur quelle facture vous souhaitez faire apparaître le produit et cliquez sur le bouton "Ajouter"
 
 {% hint style="warning" %}
@@ -81,7 +81,7 @@ Vous ne pouvez pas ajouter plus de produits que ceux disponibles en stock. Lorsq
 
 ### Retirer un produit de la commande
 
-Pour retirer un produit de la commande, allez dans la liste des produits et supprimez le en cliquant sur le bouton "Supprimer".&#x20;
+Pour retirer un produit de la commande, allez dans la liste des produits et supprimez le en cliquant sur le bouton "Supprimer".
 
 :arrow\_right:Si vous ne souhaitez supprimer qu'une certaine quantité de produits, cliquez sur le bouton "Modifier" et ajustez la quantité.
 
@@ -95,7 +95,7 @@ Pour cela, cliquez sur le bouton "Annuler les produits", en haut de la page, et 
 
 ### Modifier les détails d'expédition
 
-Dans la section administrative, cliquez sur l'onglet Transporteurs. Ensuite, cliquez sur le bouton "Modifier" pour modifier le numéro de suivi et le transporteur.&#x20;
+Dans la section administrative, cliquez sur l'onglet Transporteurs. Ensuite, cliquez sur le bouton "Modifier" pour modifier le numéro de suivi et le transporteur.
 
 :arrow\_right:Notez que le transporteur ne peut être modifié que si la commande n'a pas encore été expédiée.
 
@@ -120,15 +120,15 @@ Si l'adresse que vous souhaitez associer à la commande n'est pas déjà enregis
 
 ### Enregistrer un nouveau paiement
 
-Pour enregistrer un nouveau paiement, allez à la section Paiements de la page Commande.&#x20;
+Pour enregistrer un nouveau paiement, allez à la section Paiements de la page Commande.
 
 * Sélectionnez la date de paiement et entrez le mode de paiement utilisé
-* Saisissez l'identifiant de la transaction&#x20;
-* Entrez le montant et sélectionnez la devise&#x20;
-* Sélectionnez la facture sur laquelle vous souhaitez que ce paiement apparaisse&#x20;
+* Saisissez l'identifiant de la transaction
+* Entrez le montant et sélectionnez la devise
+* Sélectionnez la facture sur laquelle vous souhaitez que ce paiement apparaisse
 * Cliquez sur le bouton "Ajouter" pour sauvegarder
 
-![](<../../../../.gitbook/assets/image (13).png>)
+![](<../../../../.gitbook/assets/image (13) (1).png>)
 
 ### Ajouter une réduction
 
@@ -147,29 +147,27 @@ La réduction n'est pas appliquée aux frais de port, sauf si vous cochez la cas
 
 ## Gérer les messages de la commande et les commentaires privés
 
-### Ajouter un commentaire privé :lock\_with\_ink\_pen:&#x20;
+### Ajouter un commentaire privé :lock\_with\_ink\_pen:
 
 Dans la section Client de la page commande, vous pouvez ajouter un commentaire privé à propos d'un client qui ne sera visible que par vous et votre équipe. Cela peut s'avérer très utile pour échanger des informations entre collègues à propos du client : s'agit-il d'un client régulier ? Faut-il lui accorder une attention particulière en raison d'un incident antérieur ?
 
-### Attacher un message à la commande :e-mail:&#x20;
+### Attacher un message à la commande :e-mail:
 
-Vous pourriez avoir besoin d'envoyer un message à votre client pour le tenir informé de l'avancement de sa commande ou lui faire part d'un imprévu. **La communication est la clé d'une bonne expérience client !** Et la bonne nouvelle, c'est que vous pouvez le faire très facilement à partir de la page de commande :&#x20;
+Vous pourriez avoir besoin d'envoyer un message à votre client pour le tenir informé de l'avancement de sa commande ou lui faire part d'un imprévu. **La communication est la clé d'une bonne expérience client !** Et la bonne nouvelle, c'est que vous pouvez le faire très facilement à partir de la page de commande :
 
-Écrivez votre message dans le champ message et envoyez-le.&#x20;
+Écrivez votre message dans le champ message et envoyez-le.
 
-* [x] Si vous souhaitez que votre client reçoive le message, n'oubliez pas de cocher la case "Montrer au client".\
-
+* [x] Si vous souhaitez que votre client reçoive le message, n'oubliez pas de cocher la case "Montrer au client".\\
 * [ ] Si vous souhaitez garder ce message privé, c'est également possible : il suffit de ne pas cocher la case "Montrer au client".
 
 ### Envoyer des messages prédéfinis
 
 Vous pouvez sélectionner un message prédéfini dans la liste déroulante. Vous pouvez ensuite y apporter des modifications avant de l'envoyer si nécessaire.
 
-Si vous souhaitez écrire des messages prédéfinis personnalisés, cliquez sur le bouton "Configurer les messages prédéfinis". Vous serez alors redirigé vers la page des messages prédéfinis, sous le menu SAV.&#x20;
+Si vous souhaitez écrire des messages prédéfinis personnalisés, cliquez sur le bouton "Configurer les messages prédéfinis". Vous serez alors redirigé vers la page des messages prédéfinis, sous le menu SAV.
 
 Pour en savoir plus :
 
 {% content-ref url="../../gerer-service-client/messages-predefinis.md" %}
 [messages-predefinis.md](../../gerer-service-client/messages-predefinis.md)
 {% endcontent-ref %}
-

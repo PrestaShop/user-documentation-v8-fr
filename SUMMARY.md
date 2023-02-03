@@ -119,7 +119,7 @@
         * [Gestionnaire SQL](guide-utilisateur/configurer-boutique/parametres-avances/base-de-donnees/gestionnaire-sql.md)
         * [Sauvegarde BDD](guide-utilisateur/configurer-boutique/parametres-avances/base-de-donnees/sauvegarde-bdd.md)
       * [Paramètres de log](guide-utilisateur/configurer-boutique/parametres-avances/logs.md)
-      * [Paramètres du service web](guide-utilisateur/configurer-boutique/parametres-avances/service-web.md)
+      * [Paramètres du webservice](guide-utilisateur/configurer-boutique/parametres-avances/service-web.md)
       * [Multiboutique](guide-utilisateur/configurer-boutique/parametres-avances/multiboutique.md)
       * [Fonctionnalités expérimentales](guide-utilisateur/configurer-boutique/parametres-avances/fonctionnalites-experimentales.md)
   * [Gérer plusieurs boutiques](guide-utilisateur/gerer-plusieurs-boutiques/README.md)
