@@ -6,7 +6,7 @@ Un webservice (ou service Web) est une méthode de communication entre deux enti
 
 La page s'ouvre avec une liste des clés actuellement en place, s'il y en a. Une clé de webservice offre un accès unique à votre base, que vous donnez à un développeur afin qu'il lie son outil à votre boutique. N'en créez pas des centaines, car vous pourriez ne pas souhaiter que tout le monde puisse accéder à vos données.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Toutes les applications ne peuvent pas accéder au webservice de PrestaShop : vous décidez qui le peut, et ce que chacune est autorisée à faire. Chaque application dispose d'une clé de connexion unique, avec des droits d'accès spécifiques.
 

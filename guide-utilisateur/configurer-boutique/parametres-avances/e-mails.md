@@ -62,3 +62,11 @@ Une fois que vous avez configuré vos envois d'e-mails avec l'une ou l'autre des
 Vérifiez maintenant la boite de réception de l'adresse fournie, afin de vérifier que vous avez bien reçu le mail de test. Si vous ne l'avez pas reçu, veuillez modifier votre configuration en conséquence.
 
 ![](../../../.gitbook/assets/52298463.png)
+
+### Ajout de signature DKIM aux e-mails
+
+Les signatures [DKIM](https://fr.wikipedia.org/wiki/DomainKeys\_Identified\_Mail) sont des signatures numériques invisibles cachées dans un e-email. Cette signature peut ensuite être vérifiée par le destinataire, afin de vérifier sa fiabilité et ainsi se protéger contre une attaque de type spoofing (ou usurpation d'adresse e-email). Cela permettra aux e-mails de votre boutique de ne pas être signalés comme spam par différentes boîtes mails.
+
+La connexion DKIM peut être activée dans Paramètres Avancés > E-mail.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -128,7 +128,7 @@ Pour enregistrer un nouveau paiement, allez à la section Paiements de la page C
 * Sélectionnez la facture sur laquelle vous souhaitez que ce paiement apparaisse
 * Cliquez sur le bouton "Ajouter" pour sauvegarder
 
-![](<../../../../.gitbook/assets/image (13) (1).png>)
+![](<../../../../.gitbook/assets/image (13).png>)
 
 ### Ajouter une réduction
 
