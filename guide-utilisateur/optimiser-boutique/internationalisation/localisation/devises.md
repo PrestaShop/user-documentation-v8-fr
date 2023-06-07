@@ -97,6 +97,8 @@ Les taux de change des devises alternatives ne seront pas mis à jour. Vous devr
 
 Une simple recherche sur internet est généralement suffisante pour trouver le taux de change d’une monnaie. Vous pouvez utiliser des convertisseurs en ligne, comme XE.com :
 
-[https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD)
+[https://www.xe.com/currencyconverter/](https://www.xe.com/currencyconverter/)
 
-Pour les cryptomonnaies, vous pouvez visiter le site web suivant : [https://coinmarketcap.com/](https://coinmarketcap.com)
+Pour les cryptomonnaies, vous pouvez visiter le site web suivant :&#x20;
+
+[https://coinmarketcap.com/](https://coinmarketcap.com)

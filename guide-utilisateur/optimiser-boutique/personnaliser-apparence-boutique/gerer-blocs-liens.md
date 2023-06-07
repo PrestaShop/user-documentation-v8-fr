@@ -29,14 +29,13 @@ Si vous souhaitez afficher un nouveau bloc de liens sur votre boutique, cliquez 
 Un formulaire de création s'ouvre avec les informations suivantes à remplir :
 
 * **Nom du bloc.** C'est le titre de votre bloc de liens, tel qu'il apparaîtra sur votre boutique. Faites simple et efficace.
-* **Point d'accroche.** Choisissez à quel point d'accroche vous souhaitez le greffer.&#x20;
+* **Point d'accroche.** Choisissez à quel point d'accroche vous souhaitez le greffer.
 * **Liens vers les pages.** Plusieurs sections s'affichent avec toutes les pages vers lesquelles vous pouvez ajouter un lien. Sélectionnez chaque page individuellement, ou sélectionnez un groupe de page, en cochant la case en haut à gauche de chaque section (à côté de "Nom"). Par défaut, il existe déjà trois sections:
   * _Pages de contenu - Accueil._ Toutes les pages de contenu créées dans la catégorie "Accueil".
   * _Pages produits._ Les pages présentant des listes de produits, qu'ils soient nouveaux ou en promotion.
   * _Contenu statique._ Les pages de contenu liées à votre thème.\
     Si vous avez d'autres catégories de pages, elles s'afficheront également, avec les pages qu'elles contiennent.
-* **Contenu personnalisé.** Vous pouvez aussi ajouter un lien personnalisé en renseignant les champs suivants :\
-
+* **Contenu personnalisé.** Vous pouvez aussi ajouter un lien personnalisé en renseignant les champs suivants :
   * _Titre._ Indiquez ici le nom du lien que vous souhaitez afficher.
   * _URL._ Renseignez ici le lien vers lequel vous souhaitez rediriger.
 

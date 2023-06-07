@@ -5,7 +5,7 @@ Pour la plupart des statistiques, une explication est donnée afin que vous puis
 
 Vidéo - 4 conseils pour optimiser les performances de votre boutique en ligne
 
-[![](../../.gitbook/assets/51839795.png)](https://www.youtube.com/watch?v=0acJfI8fn-0\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=23)&#x20;
+<figure><img src="../../.gitbook/assets/51839795.png" alt=""><figcaption></figcaption></figure>
 
 ## Interface principale <a href="#comprendrelesstatistiques-interfaceprincipale" id="comprendrelesstatistiques-interfaceprincipale"></a>
 

@@ -1,12 +1,10 @@
 ---
 description: >-
   Sur cette page de documentation, vous apprendrez à créer une commande
-  directement depuis votre back-office.
+  directement depuis votre back office.
 ---
 
-# Créer une commande depuis le back-office
-
-![](<../../../.gitbook/assets/recent updates (1).png>)
+# Créer une commande depuis le back office
 
 :arrow\_right:[Contribuer](https://prestashop.gitbook.io/howtocontribute/)
 
@@ -83,4 +81,4 @@ Une façon de compléter la commande est d'envoyer la commande pré-remplie avec
 
 ### Finaliser la commande sur le front-office
 
-En cliquant sur le bouton "Finaliser la commande sur le front-office", vous serez redirigé vers la page de paiement, pour finaliser la commande créée via le back-office.
+En cliquant sur le bouton "Finaliser la commande sur le front-office", vous serez redirigé vers la page de paiement, pour finaliser la commande créée via le back office.

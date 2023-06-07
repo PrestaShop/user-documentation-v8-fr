@@ -9,7 +9,3 @@ La page "Modes de paiements" est très simple, avec deux sections principales.
 ## Installer un mode de paiement <a href="#modedepaiements-installerunmodedepaiement" id="modedepaiements-installerunmodedepaiement"></a>
 
 L'installation d'un module de paiement n'est pas fondamentalement différente de celle d'un module normal : cliquez simplement sur le bouton "Installer", et il ne vous reste plus qu'à configurer le module. Vous devez faire attention à bien le configurer, et vous assurer que ses données pointent bien vers votre adresse ou votre compte bancaire. Configurer un module de paiement signifie que vous devez en premier lieu être connu de votre fournisseur de serveur de paiement, c'est à dire avoir un compte chez lui.
-
-4 moyens d'améliorer la conversion grâce à votre processus de paiement
-
-[![](../../../.gitbook/assets/51839799.png)](https://www.youtube.com/watch?v=i\_wwnGt7JKM\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=19)

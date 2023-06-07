@@ -32,4 +32,4 @@ La configuration est assez simple :
 
 ![](../../../.gitbook/assets/52298493.png)
 
-Développeurs : la documentation sur le [service Web de PrestaShop](https://app.gitbook.com/s/-MCvI8Jr0x0DXCYZL7YU/english-documentation/developer-guide/developer-tutorials/using-the-prestashop-web-service) (en anglais) se trouve ici : [https://app.gitbook.com/@prestashop/s/prestashop-1-6-documentations/\~/drafts/-MEhOG0w2JhftfYWyPdZ/english-documentation/developer-guide/developer-tutorials/using-the-prestashop-web-service](https://app.gitbook.com/s/-MCvI8Jr0x0DXCYZL7YU/english-documentation/developer-guide/developer-tutorials/using-the-prestashop-web-service)
+Développeurs : la documentation sur le service Web de PrestaShop (disponible en anglais) se trouve ici : [https://devdocs.prestashop-project.org/8/webservice/](https://devdocs.prestashop-project.org/8/webservice/)

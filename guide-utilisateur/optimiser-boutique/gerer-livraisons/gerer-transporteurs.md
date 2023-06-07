@@ -8,7 +8,7 @@ La page "Transporteurs" vous présente une liste de tous vos transporteurs actue
 
 6 conseils pour construire une politique de livraison qui convertit et fidélise
 
-[![](../../../.gitbook/assets/51839792.png)](https://www.youtube.com/watch?v=QhTU\_eSrm7o\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=26)
+<figure><img src="../../../.gitbook/assets/51839792.png" alt=""><figcaption></figcaption></figure>
 
 Par défaut, deux transporteurs sont disponibles :
 
@@ -66,8 +66,7 @@ Ce panneau présente tout d'abord une poignée de réglages :
 * **Ajouter le frais de manutention**. Ajoute ou enlève les frais de manutention du prix du transporteur, tels que paramétrés dans la page "Préférences" ("Frais de manutention").
 * **Livraison gratuite**. Si cette option est activée, vous ne pourrez pas indiquer de prix de livraison.\
   Si cette option est désactivée, vous pourrez modifier les tranches et les coûts par pays dans le formulaire plus bas.
-* **Facturation**. Au moment de facturer le client pour le transport, PrestaShop peut appliquer deux comportements, que vous devez configurer en fonction de la manière dont votre transporteur gère sa facturation (donc lisez bien leur documentation) :\
-
+* **Facturation**. Au moment de facturer le client pour le transport, PrestaShop peut appliquer deux comportements, que vous devez configurer en fonction de la manière dont votre transporteur gère sa facturation (donc lisez bien leur documentation) :\\
   * **En fonction du prix total**. La facturation dépend du prix total de la commande.
   * **En fonction du poids**. La facturation dépend du poids total de la commande.
 * **Taxe**. Indique sur le transporteur requiert une taxe locale afin de livrer, et le cas échéant, laquelle. La taxe doit déjà avoir été créée dans PrestaShop (ce qui se fait dans la page "Taxes" du menu "International").

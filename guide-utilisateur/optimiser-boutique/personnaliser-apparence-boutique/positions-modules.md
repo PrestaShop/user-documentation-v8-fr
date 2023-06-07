@@ -45,8 +45,7 @@ Le processus de greffe dispose de sa propre interface :
 4. Dans la liste déroulante "Greffer le module sur", choisissez l'emplacement où vous voulez que le module soit greffé.
 5. Dans le champ "Exceptions", saisissez le nom du(des) fichier(s) correspondant aux pages sur lesquelles vous ne voulez pas voir le module apparaître. Vous pouvez faire une sélection multiple en cliquant sur les fichiers sélectionnés tout en maintenant la touche CTRL pressée. Désélectionnez les fichiers de la même manière : CTRL + clic.
 6. N'oubliez pas d'enregistrer vos modifications.\
-   \
-
+   \\
 
 ![](../../../.gitbook/assets/52298288.png)
 
@@ -101,6 +100,6 @@ Ceci fait, vous devez écrire le code qui affichera le contenu pour la page d'ac
 
 ## Widgets <a href="#positionsdesmodules-widgets" id="positionsdesmodules-widgets"></a>
 
-La version 1.7 de PrestaShop a introduit un nouveau système pour greffer les modules : les widgets. Grâce aux widgets, un module peut être utilisé et transplanté sur n'importe quel point d'accroche.&#x20;
+La version 1.7 de PrestaShop a introduit un nouveau système pour greffer les modules : les widgets. Grâce aux widgets, un module peut être utilisé et transplanté sur n'importe quel point d'accroche.
 
-Les widgets fonctionnent avec les modules spécifiques à la 1.7 (les modules PrestaShop concernés ont un nom technique commençant par "ps\_") et ne peuvent pas être utilisés sur des modules antérieurs. Pour en savoir plus sur les widgets, consultez notre documentation dev (en anglais) : [https://devdocs.prestashop.com/1.7/modules/concepts/widgets/](https://devdocs.prestashop.com/1.7/modules/concepts/widgets/)
+Les widgets fonctionnent avec les modules spécifiques à la 8 (les modules PrestaShop concernés ont un nom technique commençant par "ps\_") et ne peuvent pas être utilisés sur des modules antérieurs. Pour en savoir plus sur les widgets, consultez notre documentation dev (en anglais) : [https://devdocs.prestashop-project.org/8/modules/concepts/widgets/](https://devdocs.prestashop-project.org/8/modules/concepts/widgets/)

@@ -12,9 +12,7 @@ Vous pouvez choisir les pays qui ont accès à votre site (par défaut, tous), e
 
 * Les visiteurs ne peuvent pas voir le catalogue.
 * Les visiteurs peuvent voir le catalogue mais ne peuvent pas commander. Dans les faits, cette option leur présente votre boutique en mode "Catalogue".
-* Toutes les fonctionnalités sont disponibles (uniquement pour les pays restreints).\
-  \
-
+* Toutes les fonctionnalités sont disponibles (uniquement pour les pays restreints).
 
 ![](../../../../.gitbook/assets/64225456.png)
 

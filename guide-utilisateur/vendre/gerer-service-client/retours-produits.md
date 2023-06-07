@@ -14,11 +14,11 @@ Une fois que vous avez activé l'option de retour produits dans votre back-offic
 2. Sélectionner la commande contenant le produit qu'il/elle veut renvoyer.
 3. Sélectionner le(s) produit(s) qu'il/elle veut renvoyer en cochant la case à coté de leur(s) nom(s).
 4. Préciser la quantité de produit(s) à retourner (si plusieurs quantités d'un même produit sont à renvoyer).
-5. Ajouter une explication (dans la section "Retour de marchandise"), afin que vous compreniez pourquoi la commande est renvoyée.\
-   \
-   ![](../../../.gitbook/assets/52298265.png)\
-   \
+5.  Ajouter une explication (dans la section "Retour de marchandise"), afin que vous compreniez pourquoi la commande est renvoyée.\
+    \
 
+
+    <figure><img src="../../../.gitbook/assets/52298265.png" alt=""><figcaption></figcaption></figure>
 
 Dans quelles conditions un retour est-il possible ?
 
@@ -63,7 +63,7 @@ Il vous revient maintenant d'accepter ou refuser ce retour produit :
      1. Choisissez l'étape suivante du processus : "En attente du paquet". Cela enverra au client un e-mail indiquant qu'il peut vous renvoyer son produit.
      2. Une fois que vous avez reçu le paquet, changez l'état du retour à "Paquet reçu".
      3. Enfin, une fois que l'ensemble du processus est terminé (soit que le client a été remboursé, ou vous lui avez envoyé un bon), changez l'état du retour en "Retour terminé".
-3. Enregistrez.
+     4. Enregistrez.
 
 ## Rembourser un client <a href="#retoursproduits-rembourserunclient" id="retoursproduits-rembourserunclient"></a>
 
@@ -77,8 +77,7 @@ Le retour produit n'est pas activé par défaut. Pour l'activer, vous devez vous
 
 * **Retourner les produits**. À n'utiliser que lorsque le client a effectivement renvoyé ses produits : une fois que le produit renvoyé a été reçu, vous pouvez le marquer comme renvoyé dans le formulaire de la commande. Cliquez sur le bouton "Retourner les produits" et une nouvelle colonne apparaîtra dans la liste de produits, intitulée "Retour". Cochez la case des produits impliqués, indiquez la quantité du produit qui a été renvoyée et cliquez sur le bouton "Retourner les produits" en bas du tableau.
 * **Remboursement partiel**. À n'utiliser que lorsque vous avez besoin de rembourser une partie de la commande, et non la commande complète ; soit parce que le client a renvoyé un produit commandé, soit par geste commercial pour un produit endommagé que le client a choisi de conserver malgré tout. Cliquez sur "Remboursement partiel" et une nouvelle colonne apparaîtra dans la liste de produits, intitulée "Remboursement partiel". Indiquez la quantité pour chaque produit impliqué, choisissez l'une des options en bas de la liste (voir ci-dessous) et cliquez sur le bouton "Remboursement partiel" en bas du tableau.\
-  \
-
+  \\
 
 Quand vous marquez des produits comme ayant été retournés ou à rembourser, quatre options sont disponibles sous le tableau des produits :
 

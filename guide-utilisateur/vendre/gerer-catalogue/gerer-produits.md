@@ -757,8 +757,8 @@ Lorsque vous créez un pack de produits, PrestaShop doit savoir comment gérer l
 
 Une fois vos options définies dans l'onglet "Pack", vous pouvez modifier le contenu de tous les autres onglets disponibles comme vous le feriez pour un produit normal.
 
-12 astuces essentielles pour créer une fiche produit efficace
+### 12 astuces essentielles pour créer une fiche produit efficace
 
 Regardez cette courte vidéo pour découvrir 12 astuces pour créer une fiche produit au top :
 
-[![](../../../.gitbook/assets/51839720.png)](https://www.youtube.com/watch?v=5k3ZdPo00KY)
+<figure><img src="../../../.gitbook/assets/51839720.png" alt=""><figcaption></figcaption></figure>

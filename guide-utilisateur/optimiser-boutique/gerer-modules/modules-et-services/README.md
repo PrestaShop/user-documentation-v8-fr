@@ -1,6 +1,6 @@
 # Modules et services
 
-Dans la version 1.7 de PrestaShop, la page Modules et services contient trois onglets pour vous aider à effectuer rapidement ce que vous souhaitez dans vos modules :
+Dans la version 8 de PrestaShop, la page Modules et services contient trois onglets pour vous aider à effectuer rapidement ce que vous souhaitez dans vos modules :
 
 * Sélection : c'est là que vous pouvez découvrir et installer de nouveaux modules pour améliorer votre boutique, que vous démarriez ou poursuiviez vos activités avec PrestaShop,
 * Modules installés : c'est là que vous pouvez gérer vos modules au quotidien,

@@ -1,6 +1,6 @@
 # Découvrir la sélection de modules
 
-L'onglet  “Sélection” permet de découvrir de nouveaux modules et services afin d'optimiser votre boutique. Vous trouverez une liste de tous les modules que vous pouvez installer (excluant ceux que vous avez déjà installés).
+L'onglet “Sélection” permet de découvrir de nouveaux modules et services afin d'optimiser votre boutique. Vous trouverez une liste de tous les modules que vous pouvez installer (excluant ceux que vous avez déjà installés).
 
 ![](../../../../.gitbook/assets/51185191.png)
 
@@ -12,10 +12,10 @@ Cette sélection de modules recommandés est basée sur votre pays, votre langue
   * [Informations sur les modules et services](selection-modules.md#informations-sur-les-modules-et-services)
     * [En savoir plus](selection-modules.md#en-savoir-plus)
 * [Installer ou acheter un module](selection-modules.md#installer-ou-acheter-un-module)
-* [Installer un module manuellement ](selection-modules.md#installer-un-module-manuellement)
+* [Installer un module manuellement](selection-modules.md#installer-un-module-manuellement)
   * [Installer à l'aide du formulaire de téléchargement](selection-modules.md#installer-a-laide-du-formulaire-de-telechargement)
   * [Installer à l'aide d'un client FTP](selection-modules.md#installer-a-laide-dun-client-ftp)
-* [Se connecter à la marketplace Addons ](selection-modules.md#se-connecter-a-la-marketplace-addons)
+* [Se connecter à la marketplace Addons](selection-modules.md#se-connecter-a-la-marketplace-addons)
   * [Vous n'avez pas de compte Addons?](selection-modules.md#vous-navez-pas-de-compte-addons)
   * [Vous avez déjà un compte ?](selection-modules.md#vous-avez-deja-un-compte)
 
@@ -64,12 +64,12 @@ En cliquant sur "En savoir plus", vous trouverez plus de détails sur chaque mod
 
 ### Informations sur les modules et services
 
-Chaque module présente un ensemble d'informations pour vous guider dans vos choix.&#x20;
+Chaque module présente un ensemble d'informations pour vous guider dans vos choix.
 
 * **Nom de module.** Le nom du module.
-* **Auteur du module**. Le créateur du module.&#x20;
-  * "Par PrestaShop" est utilisé pour les modules intégrés ou les modules créés par PrestaShop et vendus sur la marketplace Addons.&#x20;
-  * "Partenaires PrestaShop" identifie les modules développés par les partenaires officiels de PrestaShop, qui sont souvent gratuits.&#x20;
+* **Auteur du module**. Le créateur du module.
+  * "Par PrestaShop" est utilisé pour les modules intégrés ou les modules créés par PrestaShop et vendus sur la marketplace Addons.
+  * "Partenaires PrestaShop" identifie les modules développés par les partenaires officiels de PrestaShop, qui sont souvent gratuits.
   * "Par les développeurs de la communauté" inclut les contributeurs individuels ou les agences de la communauté PrestaShop dont les modules sont disponibles sur Addons.
 * **Version du module**. La version du module que vous installeriez.
 * **Description**. Une courte phrase pour décrire le module ou le service, et comment il peut vous rendre service.
@@ -77,7 +77,7 @@ Chaque module présente un ensemble d'informations pour vous guider dans vos cho
 
 #### **En savoir plus**
 
-Si les informations de base sont insuffisantes, cliquez sur  "En savoir plus" pour obtenir plus de détails. Une fenêtre contextuelle s'ouvre, avec une image du module (son icône ou parfois une capture d'écran) et plusieurs onglets. Ces informations sont fournies par l'auteur du module et peuvent varier d'un module à l'autre, tant en termes de quantité que de qualité.
+Si les informations de base sont insuffisantes, cliquez sur "En savoir plus" pour obtenir plus de détails. Une fenêtre contextuelle s'ouvre, avec une image du module (son icône ou parfois une capture d'écran) et plusieurs onglets. Ces informations sont fournies par l'auteur du module et peuvent varier d'un module à l'autre, tant en termes de quantité que de qualité.
 
 * **Description**. Une brève présentation du module.
 * **Informations supplémentaires**. Informations plus détaillées.
@@ -99,12 +99,12 @@ Certains badges peuvent s'afficher en bas de la fenêtre contextuelle :
 Une fois que vous avez choisi un module, vous pouvez effectuer trois actions différentes, en fonction du type de module.
 
 * **Installer.** Les modules gratuits ont un bouton "Installer". En cliquant dessus, le module sera installé sur votre boutique. Une fois installé, un nouveau menu s'affichera pour gérer votre module : vous pouvez configurer, désinstaller, désactiver, désactiver sur mobile ou réinitialiser le module. Pour plus d'informations, reportez-vous à la section "Modules installés".
-* **Acheter**.  Pour les modules payants, au lieu d'afficher "Installer", le bouton affichera le prix du module. En cliquant dessus, vous serez redirigé sur la page Addons du module, où vous pourrez terminer l'achat. N'oubliez pas de lier votre boutique à votre compte Addons afin de récupérer automatiquement le module et ses mises à jour dans votre boutique !&#x20;
+* **Acheter**. Pour les modules payants, au lieu d'afficher "Installer", le bouton affichera le prix du module. En cliquant dessus, vous serez redirigé sur la page Addons du module, où vous pourrez terminer l'achat. N'oubliez pas de lier votre boutique à votre compte Addons afin de récupérer automatiquement le module et ses mises à jour dans votre boutique !
 * **Découvrir**. Les services ont un bouton "Découvrir". En cliquant dessus, vous serez redirigé sur la page Addons du service qui permet d'en savoir plus et de souscrire au service.
 
 Une fois un module installé, il sera affiché dans la liste des modules de l'onglet "Modules installés", dont il est question dans le chapitre suivant.
 
-## Installer un module manuellement&#x20;
+## Installer un module manuellement
 
 Une fois que vous avez téléchargé un module depuis le site Addons, il vous revient de l'installer sur votre boutique PrestaShop.
 
@@ -143,7 +143,7 @@ Les modules peuvent venir de nombreuses sources, et toutes ne sont pas recommand
 
 L'installation d'un module intégré (natif) ou d'un module provenant d'Addons ne déclenche pas l'affichage de cette fenêtre.
 
-## Se connecter à la marketplace Addons&#x20;
+## Se connecter à PrestaShop Addons
 
 PrestaShop Addons est la marketplace centrale qui permet d'obtenir de nouveaux modules et des thèmes pour votre boutique. Les utilisateurs Addons sont des citoyens de première ordre quand il s'agit de gestion des modules ! En effet, une fois votre que installation de PrestaShop est liée à votre compte Addons, les modules que vous obtenez sur Addons seront automatiquement importés et mis à jour ! Voilà pourquoi il est hautement recommandé de lier votre boutique à votre compte PrestaShop Addons.
 

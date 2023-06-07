@@ -93,11 +93,7 @@ Lorsque vous procédez à un remboursement, vous pouvez choisir de générer un 
 
 Dans PrestaShop, les bons de réduction font partie d'un type spécial de réduction : "les règles panier". Ces règles peuvent être créées et éditées à partir de la page Catalogue > Réductions > Règles panier. Vous pouvez également modifier les bons existants des clients directement à partir de la page Client, dans la section Bons de réduction.
 
-Pour en savoir plus :
-
-{% content-ref url="../../gerer-catalogue/mettre-en-place-promotions/regles-paniers.md" %}
-[regles-paniers.md](../../gerer-catalogue/mettre-en-place-promotions/regles-paniers.md)
-{% endcontent-ref %}
+Pour en savoir plus : visitez les [Règles paniers](../../gerer-catalogue/mettre-en-place-promotions/regles-paniers.md)
 
 ### Rembourser les frais de port
 

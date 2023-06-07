@@ -1,9 +1,5 @@
 # Parcourir le front-office
 
-![](<../.gitbook/assets/recent updates (1).png>)
-
-:arrow\_right:[Contribuer](https://prestashop.gitbook.io/howtocontribute/)
-
 Le front-office est la partie visible de votre site. Cela correspond à ce que les clients voient en parcourant votre boutique et tout le long du processus d’achat.
 
 En tant que marchand, il est indispensable que vous connaissiez parfaitement le front-office de votre boutique car c'est ce qui va vous permettre de vous mettre à la place de vos visiteurs : de vivre ce à quoi vos clients font face quand ils naviguent sur votre site, comment se déroule leur expérience d’achat, quels peuvent être leurs points de blocage, etc.
@@ -26,13 +22,13 @@ Si vous avez installé PrestaShop avec ses données de démonstration, vous verr
 
 ## Parcourir la boutique
 
-### L'en-tête
+### L'entête
 
-L'en-tête est une fine barre de contenu en haut de la page, accessible depuis toutes les pages du front-office.
+L'entête est une fine barre de contenu en haut de la page, accessible depuis toutes les pages du front-office.
 
-L'en-tête est divisé en deux parties.
+L'entête est divisé en deux parties.
 
-La partie supérieure de l'en-tête contient :
+La partie supérieure de l'entête contient :
 
 ![Partie supérieure de l'en-tête](<../.gitbook/assets/image (18).png>)
 
@@ -42,11 +38,11 @@ La partie supérieure de l'en-tête contient :
 * **Un lien vers la page d'authentification :** une fois connecté, le client a accès à son compte et un lien "Déconnexion" apparaît à côté de son nom.
 * **Un lien vers le panier du client :** en un coup d'oeil, le client peut savoir combien d'articles il y a dans son panier. Il peut également cliquer sur le bouton "Panier" pour accéder au contenu du panier et finaliser sa commande.
 
-La partie inférieure de l'en-tête, plus large, contient :
+La partie inférieure de l'entête, plus large, contient :
 
 ![Partie inférieure de l'en-tête](<../.gitbook/assets/image (19) (1).png>)
 
-* **Le logo de la boutique :** en cliquant sur ce logo, le client sera automatiquement redirigé vers la page d'accueil de la boutique. N'oubliez pas de changer le logo par défaut en ajoutant le vôtre depuis la page Design > Theme & Logo du back-office !
+* **Le logo de la boutique :** en cliquant sur ce logo, le client sera automatiquement redirigé vers la page d'accueil de la boutique. N'oubliez pas de changer le logo par défaut en ajoutant le vôtre depuis la page Apparence > Thème et logo du back-office.
 * **Le menu :** par défaut, les catégories "Vêtements", "Accessoires" et "Art" sont affichées, et des sous-catégories apparaîssent au survol de la souris. Pour personnaliser le menu avec vos propres catégories, vous devez configurer le module "Menu principal".
 * **La barre de recherche :** indispensable pour faciliter la recherche sur votre boutique, elle permet aux clients de trouver rapidement les articles de leur choix grâce à des mots-clés.
 
@@ -72,7 +68,7 @@ Le pied de page est divisé en deux parties.
 
 ![](<../.gitbook/assets/image (22).png>)
 
-:arrow\_right:La partie supérieure du pied de page contient un **bloc d'inscription à la newsletter** de votre boutique, permettant aux clients de recevoir des offres spéciales. Ce formulaire d'abonnement est géré par le module "Inscription à la newsletter".
+**La partie supérieure du pied de page** contient un **bloc d'inscription à la newsletter** de votre boutique, permettant aux clients de recevoir des offres spéciales. Ce formulaire d'abonnement est géré par le module "Inscription à la newsletter".
 
 ![Bloc d'inscription à la newsletter](<../.gitbook/assets/image (21).png>)
 
@@ -80,7 +76,7 @@ Le pied de page est divisé en deux parties.
 Veuillez noter que l'envoi de la newsletter est de votre ressort. Grâce au module "Newsletter", vous pourrez générer un fichier .csv contenant tous les clients enregistrés et leurs e-mails. Vous pourrez ensuite importer ce fichier dans n'importe quel système d'e-mailing.
 {% endhint %}
 
-:arrow\_right:La partie inférieure du pied de page contient 4 blocs donnant accès à des pages très utiles pour vos clients :
+**La partie inférieure du pied de page** contient 4 blocs donnant accès à des pages très utiles pour vos clients :
 
 {% tabs %}
 {% tab title="PRODUITS" %}

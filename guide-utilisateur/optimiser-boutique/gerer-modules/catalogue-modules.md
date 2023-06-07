@@ -11,7 +11,7 @@ La page "Catalogue de modules" vous donne un accès rapide et facile à la base 
 * Un champ de recherche, grâce auquel vous pouvez découvrir tout le contenu d'Addons.
 * Un liste déroulante qui vous permet de filtrer votre recherche selon les catégories visées/
 * Quelques sélections thématiques de modules que vous pouvez acheter directement, qui répondent à vos objectifs business :
-  * Etre visible
+  * Être visible
   * Booster ses ventes
   * Augmenter le panier moyen
   * Créer de la confiance avec un paiement sécurisé

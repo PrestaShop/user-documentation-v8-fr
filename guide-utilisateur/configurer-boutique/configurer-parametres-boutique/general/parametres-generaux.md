@@ -25,6 +25,8 @@ La page des préférences générales présente une poignée de réglages spéci
 * **Afficher les meilleures ventes**. Le bloc "Meilleures ventes" peut être enlevé du front-office de votre boutique, en désactivant le module Bloc Meilleures Ventes. Cela étant, à l'aide de cette option, vous pouvez toujours rendre sa liste disponible par le biais de l'adresse `/top-sales.php`.
 * **Activer le multiboutique**. Cette petite option a des implications majeures : elle transforme votre boutique unique en une installation multiboutique. Elle vous donne accès à la page "Multiboutique" du menu "Paramètres avancés", et toutes les pages de l'administration peuvent changer de contexte pour appliquer leurs réglages au choix à toutes les boutiques, à un groupe de boutiques, ou à une seule boutique.\
   Vous pouvez en apprendre plus sur la fonctionnalité multiboutique de PrestaShop en lisant le chapitre "Gérer plusieurs boutiques" de ce guide.
-* **Activité principale de la boutique**. Il se peut que vous ayez mal configuré l'activité de la boutique lors de l'installation. Vous pouvez changer ce paramètre ici.\
-  \
-  ![](../../../../.gitbook/assets/52298368.png)
+*   **Activité principale de la boutique**. Il se peut que vous ayez mal configuré l'activité de la boutique lors de l'installation. Vous pouvez changer ce paramètre ici.\
+    \
+
+
+    <figure><img src="../../../../.gitbook/assets/52298368.png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,9 @@ Les outils sur cette page vous permettent d'améliorer la présence de votre sit
 
 SEO signifie "Search Engine Optimization" (soit "Optimisation pour les Moteurs de Recherche"). Il s'agit d'un ensemble de techniques et de meilleures pratiques créées dans le but d'améliorer le référencement d'un site web sur les moteurs de recherche. Vous pouvez en apprendre plus en lisant la page [Wikipédia](http://fr.wikipedia.org/wiki/Optimisation\_pour\_les\_moteurs\_de\_recherche). URL signifie "Uniform Resource Locator" (soit "Localisateur Uniforme de Ressource"). Il s'agit de l'adresse en ligne d'une page web. Vous pouvez en apprendre plus en lisant la page [Wikipédia](http://fr.wikipedia.org/wiki/Uniform\_Resource\_Locator).
 
-Par défaut, les adresses les plus profondes de PrestaShop (c'est-à-dire les pages spécifiques plutôt que le nom de domaine) ne donnent d'information ni à l'acheteur, ni aux moteurs de recherche : une adresse comme [www.myprestashop.com/product.php?id\_product=27](http://www.myprestashop.com/product.php?id\_product=27) n'aide pas le visiteur à savoir quel produit se trouve sur cette page. Les URL simplifiées (ou "Friendly URLs") permettent d'améliorer cela, en permettant d'écrire par exemple [www.myprestashop.com/2-music-players/27-ipod-nano-green](http://www.myprestashop.com/2-music-players/27-ipod-nano-green).
+Par défaut, les adresses les plus profondes de PrestaShop (c'est-à-dire les pages spécifiques plutôt que le nom de domaine) ne donnent d'information ni à l'acheteur, ni aux moteurs de recherche : une adresse comme `www.myprestashop.com/product.php?id_product=27` n'aide pas le visiteur à savoir quel produit se trouve sur cette page.&#x20;
+
+Les URL simplifiées (ou "Friendly URLs") permettent d'améliorer cela, en permettant d'écrire par exemple `www.myprestashop.com/2-music-players/27-ipod-nano-green`
 
 Comme vous pouvez le voir dans le second exemple, les catégories comme les produits peuvent disposer d'une URL simplifiée : dans l'exemple ci-dessus, `id_category=2` `2-music-players`, et `id_product=27` devient `27-ipod-nano-green`. Par défaut, le numéro d'identifiant ne peut pas être enlevé. En revanche, les mots peuvent aussi bien être générés par le nom de la catégorie et/ou du produit qu'écrits à la main. Tout se passe directement dans la page de configuration du produit ou de la catégorie (dans le menu "Catalogue") : l'adresse simplifiée peut se trouver directement dans la page principale de configuration d'une catégorie et dans l'onglet "SEO" de la page de configuration d'un produit.
 
@@ -55,7 +57,7 @@ Les principales options des URL simplifiées sont :
 * **URL accentuées.** PrestaShop peut générer des adresses web avec des caractères spéciaux, pour les produits ayant un nom avec des caractères non ASCII (accents, etc.). Vous pouvez désactiver cette option ici.
 *   **Rediriger vers l'URL canonique**. Une page PrestaShop donnée peut avoir plusieurs adresses web, la plupart du temps suite à la prise en compte de paramètres. Par exemple, [`http://example.com/product.php?id=5&option1`](http://example.com/product.php?id=5\&option1) et [`http://example.com/product.php?id=5&option2`](http://example.com/product.php?id=5\&option2) pointent vers le même produit, avec une simple différence. Étant donné qu'il est préférable qu'un produit n'aie qu'une adresse web et non plusieurs dupliquées entre elles, vous devriez activer l'option des adresses canoniques.\
     \
-    __
+    \_\_
 
     Les adresses canoniques sont une manière d'éliminer les contenus dupliqués que vous avez créés – ce qui peut faire considérablement chuter votre référencement, étant donné que le contenu est alors considéré comme étant du spam. Pour éviter que les moteurs de recherche vous voient comme un spammeur, PrestaShop utilise la balise `rel="canonical"` qui indique quelle est la page originale d'un contenu. Bien qu'il soit vivement recommandé d'activer cette option, elle dépend également de votre thème et de son implantation de la balise `rel="canonical"` dans l'en-tête HTML. Si besoin, demandez plus d'information au concepteur du thème.
 
@@ -68,15 +70,13 @@ Les principales options des URL simplifiées sont :
     * _301 Déplacé Définitivement._ Renvoie le code HTTP 301, en pointant vers l'adresse principale et en notifiant les moteurs de recherche que c'est là la seule adresse à prendre en compte. C'est l'option qu'on vous recommande lorsque vous avez terminé vos changements.
     * _302 Déplacé Temporairement._ Renvoie le code HTTP 302, en pointant vers l'adresse principale et en notifiant les moteurs de recherche que l'adresse principale peut changer plus tard.
 * **Désactiver l'option Apache MultiViews**. Apache est le serveur web le plus populaire, et c'est selon toute probabilité celui qui est utilisé pour votre hébergement (même si vous devriez vérifier vous-même). L'option Multiviews active un système de négociation de contenu, grâce auquel le serveur Web tente d'envoyer au visiteur la page qui correspond le mieux à sa langue, ce quelle que soit l'adresse Web de la page. Malheureusement, cette option peut être incompatible avec les URL simplifiées. Si c'est le cas, désactivez simplement les Multiviews avec cette option.
-* **Désactiver le module apache "mod\_security"**. `mod_security` est un module du serveur Apache qui sert de pare-feu, protégeant ainsi vos serveurs des intrusions. Il peut cependant bloquer certaines fonctionnalités importantes, et même produire des erreurs en fonction de la configuration. Dans ces cas, désactivez le module ici.\
-  \
-
+* **Désactiver le module apache "mod\_security"**. `mod_security` est un module du serveur Apache qui sert de pare-feu, protégeant ainsi vos serveurs des intrusions. Il peut cependant bloquer certaines fonctionnalités importantes, et même produire des erreurs en fonction de la configuration. Dans ces cas, désactivez le module ici.
 
 ![](../../../../.gitbook/assets/64225652.png)
 
 ## URL de la boutique <a href="#seoeturl-urldelaboutique" id="seoeturl-urldelaboutique"></a>
 
-Dans cette section, vous pouvez voir et modifier certains de vos réglages serveur par défaut :
+Dans cette section, vous pouvez voir et modifier certains de vos réglages serveur par défaut :
 
 * **Domaine**. Le domaine principal de votre boutique.
 * **Domaine SSL**. Le domaine sécurisé (`https://`) de votre boutique.
@@ -116,4 +116,4 @@ En cliquant sur le bouton "Générer le fichier robots.txt", vous remplacez tout
 
 Vidéo - Améliorez le référencement de votre boutique en ligne
 
-[![](../../../../.gitbook/assets/64225669.jpg)](https://www.youtube.com/watch?v=mt0GtxNJVBM)
+<figure><img src="../../../../.gitbook/assets/64225669.jpg" alt=""><figcaption></figcaption></figure>

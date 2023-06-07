@@ -15,23 +15,20 @@ Tout est dit dans le titre : cette page vous permet de gérer vos thèmes, et c'
 
 ## Adaptation du thème Right-To-Left (RTL)
 
-_Nouveauté depuis PrestaShop 1.7.3 !_ PrestaShop supporte désormais les langues qui se lisent de droite à gauche. Cela signifie que le back office comme les thèmes sont compatibles en Right-To-Left (RTL). En outre, un outil accessible depuis cette page permet aux marchands le désirant de générer une feuille de style au format RTL. En d'autres termes, si vous voulez adapter votre front office en RTL, c'est ici que ça se passe ! Ce sera particulièrement utile si vous souhaitez adresser vos produits sur les marchés arabes, israélien ou encore iranien.&#x20;
+_Nouveauté depuis PrestaShop 1.7.3 !_ PrestaShop supporte désormais les langues qui se lisent de droite à gauche. Cela signifie que le back office comme les thèmes sont compatibles en Right-To-Left (RTL). En outre, un outil accessible depuis cette page permet aux marchands le désirant de générer une feuille de style au format RTL. En d'autres termes, si vous voulez adapter votre front office en RTL, c'est ici que ça se passe ! Ce sera particulièrement utile si vous souhaitez adresser vos produits sur les marchés arabes, israélien ou encore iranien.
 
 ![](../../../.gitbook/assets/64225411.png)
 
-Logos
+## Logos
 
 Modifier le logo de votre boutique est souvent l'une des première étape de la personnalisation de votre boutique. Grâce aux différentes options disponibles, vous pouvez non seulement modifier le logo principal de votre boutique (visible sur la page d'accueil), mais également les logos présents ailleurs sur votre boutique :
 
-*
-  * **Logo de l'en-tête**. Le logo qui apparaîtra sur toutes les pages de votre boutique.
-  * **Logos pour les factures et les e-mails**. Les logos qui apparaîtront respectivement sur les e-mails de notification, et les factures de votre boutique.
-  * **Favicon**. La favicône de votre boutique, affichée à la gauche des onglets de votre navigateur web.\
-    \
-    \
-    ![](../../../.gitbook/assets/64225406.png)\
-    \
+* **Logo de l'entête**. Le logo qui apparaîtra sur toutes les pages de votre boutique.
+* **Logos pour les factures et les e-mails**. Les logos qui apparaîtront respectivement sur les e-mails de notification, et les factures de votre boutique.
+*   **Favicon**. La favicône de votre boutique, affichée à la gauche des onglets de votre navigateur web.\
 
+
+    <figure><img src="../../../.gitbook/assets/64225406.png" alt=""><figcaption></figcaption></figure>
 
 Le thème par défaut utilise un logo "Classic". Il est très fortement recommandé de changer toutes les instances de ce logo et de les remplacer par le vôtre !
 
@@ -44,9 +41,7 @@ La troisième section de cette page vous sert de rappel du thème que vous utili
 * Nom du thème ;
 * Version du thème ;
 * Nom de l'auteur du thème ;
-* Miniature du thème.\
-  \
-
+* Miniature du thème.
 
 ![](../../../.gitbook/assets/64225407.png)
 
@@ -70,9 +65,7 @@ C'est dans cette section que vous allez choisir le thème actuel de votre boutiq
 Cette section affiche simplement les miniatures des thèmes disponibles, avec leurs noms. Placez le curseur de votre souris sur la miniature pour afficher un menu avec deux options :
 
 * **Utiliser ce thème**. Cela remplacer votre thème actuel par ce thème.
-* **Supprimer ce thème**. Cela supprimera les fichiers de ce thème de votre serveur web.\
-  \
-
+* **Supprimer ce thème**. Cela supprimera les fichiers de ce thème de votre serveur web.
 
 En mode multiboutique, vous ne pouvez pas appliquer un thème à toutes les boutiques ou à un groupe de boutiques ; vous devez sélectionner une boutique dans le sélecteur multiboutique, puis choisir un thème.
 
@@ -106,20 +99,20 @@ Vous pouvez cliquer sur chaque image pour aller sur la page individuelle de chaq
 
 ## Configuration des pages
 
-Le module "Personnalisation de thème" vous permet de personnaliser facilement les pages du front-office de votre boutique.&#x20;
+Le module "Personnalisation de thème" vous permet de personnaliser facilement les pages du front-office de votre boutique.
 
-Vous pouvez personnaliser la **page d'accueil**, la **page catégorie** et la **page produit**.&#x20;
+Vous pouvez personnaliser la **page d'accueil**, la **page catégorie** et la **page produit**.
 
 Sur le côté gauche de votre écran est affichée une illustration simplifiée de la page sélectionnée. Sur le côté droit, une vue en miroir montre le ou les modules que vous devez configurer pour modifier l'élément sélectionné.
 
-Cliquez sur la section de la page que vous souhaitez modifier pour savoir quel(s) module(s) doit être configuré(s) pour effectuer la modification. Ensuite, cliquez sur "Configurer" pour accéder à la page du module et procéder aux modifications.&#x20;
+Cliquez sur la section de la page que vous souhaitez modifier pour savoir quel(s) module(s) doit être configuré(s) pour effectuer la modification. Ensuite, cliquez sur "Configurer" pour accéder à la page du module et procéder aux modifications.
 
 Jetez un oeil au GIF ci-dessous pour voir un exemple avec le carrousel de votre page d'accueil.
 
 ![](<../../../.gitbook/assets/Pages Configuration • Les chaussettes de l'archiduchesse (1).gif>)
 
 {% hint style="info" %}
-Veuillez noter que le module "Personnalisation de thème" fonctionne seulement avec le thème par défaut de PrestaShop et les modules intégrés.&#x20;
+Veuillez noter que le module "Personnalisation de thème" fonctionne seulement avec le thème par défaut de PrestaShop et les modules intégrés.
 {% endhint %}
 
 ## Personnalisation avancée : le thème parent / enfant
@@ -128,7 +121,7 @@ Cette fonctionnalité a été introduite avec la version 1.7 de PrestaShop. Elle
 
 ![](../../../.gitbook/assets/56688756.png)
 
-Grâce à un thème enfant, vous pouvez ainsi personnaliser votre thème tout en profitant de ses dernières nouveautés.&#x20;
+Grâce à un thème enfant, vous pouvez ainsi personnaliser votre thème tout en profitant de ses dernières nouveautés.
 
 L'utilisation d'un thème enfant est un peu technique. Vous avoir plus de détails sur l'utilisation d'un thème enfant, consultez la documentation technique : [https://devdocs.prestashop.com/1.7/themes/reference/template-inheritance/parent-child-feature](https://devdocs.prestashop.com/1.7/themes/reference/template-inheritance/parent-child-feature/)
 

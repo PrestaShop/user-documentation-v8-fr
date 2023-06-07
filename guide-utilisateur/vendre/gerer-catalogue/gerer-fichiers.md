@@ -14,8 +14,8 @@ Le processus d'enregistrement d'un fichier est clair :
 2. **Nom du fichier**. Indiquez le nom de votre document joint, dans toutes les langues disponibles. Ce nom sera visible par vos visiteurs.
 3. **Description**. Donnez en une description brève, également dans toutes les langues.
 4. Cliquez sur "Ajouter un fichier" pour sélectionner sur votre ordinateur un fichier à mettre en ligne.
-5. Cliquez sur "Enregistrer".\
-   \
+5. Cliquez sur "Enregistrer".
+
 
 
 ![](../../../.gitbook/assets/23038584.png)

@@ -8,7 +8,7 @@ Cette liste vous permet de consulter en un coup d'oeil les stocks de votre catal
 
 ![](../../../../.gitbook/assets/56688681.png)
 
-Chaque ligne correspond à un produit (soit standard, virtuel ou en pack) ou à l'une de ses combinaisons. La seule différence ? Les attributs sont affichés juste sous le nom du produit !&#x20;
+Chaque ligne correspond à un produit (soit standard, virtuel ou en pack) ou à l'une de ses combinaisons. La seule différence ? Les attributs sont affichés juste sous le nom du produit !
 
 La liste contient les colonnes suivantes :
 
@@ -68,7 +68,7 @@ En haut de la liste, deux éléments vous permettent de retrouver rapidement un 
 
 La barre de recherche permet de retrouver :
 
-* le nom du produit&#x20;
+* le nom du produit
 * la référence du produit
 * le fournisseur
 * **\[**_**beta as of 1.7.2.0**_**]** les valeurs des attributs. Cela vous permet de rechercher un attribut spécifique, comme la couleur d'un produit. En tapant "vert", par exemple, vous affichez tous les produits qui partagent cette valeur d'attribut. Du fait qu'il ne s'agisse encore que d'une version bêta, cette option de recherche ne fonctionne pas avec les valeurs d'attributs courtes comme les tailles : "S", "M" ou "L".
@@ -81,9 +81,7 @@ Dans l'onglet "Stock", les filtres avancés sont :
 
 * un filtre fournisseur, qui permet de faire défiler les fournisseurs disponibles et d'en choisir un ou plusieurs.
 * un filtre catégorie avec une arborescence.
-* un filtre statut, qui permet d'afficher les produits activés ou désactivés.\
-  \
-
+* un filtre statut, qui permet d'afficher les produits activés ou désactivés.
 
 ![](../../../../.gitbook/assets/56688674.png)
 
@@ -97,8 +95,7 @@ La bonne nouvelle, c'est que ce nouveau système de gestion des stocks est compa
 
 ![](../../../../.gitbook/assets/56688690.png)
 
-Vous devez donc sélectionner une boutique pour en modifier les stocks.\
-
+Vous devez donc sélectionner une boutique pour en modifier les stocks.\\
 
 En revanche, dans le cas où vous avez un groupe de boutiques qui partagent les mêmes quantités entre elles, vous n'avez qu'une seule boutique à sélectionner mais, cette fois-ci, les changements effectués sur cette boutique se répercutent sur les autres boutiques.
 

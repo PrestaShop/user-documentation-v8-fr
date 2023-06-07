@@ -48,7 +48,6 @@ Il se peut que vous ne soyez pas satisfait de la taille des images miniatures de
 1. Modifiez les réglages de tailles d'images dans le tableau en haut de la page de préférences "Images".
 2. Sélectionnez les contenus dont vous voulez que les images soient régénérées.
 3. Indiquez si les miniatures précédentes doivent être conservées ou non.
-4. Cliquez sur le bouton "Régénérer les miniatures".\
-
+4. Cliquez sur le bouton "Régénérer les miniatures".
 
 Les miniatures mises en ligne à la main seront effacées et remplacées par les miniatures générées automatiquement.
