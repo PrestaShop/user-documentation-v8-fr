@@ -1,7 +1,7 @@
 # Installer PrestaShop
 
 Ce chapitre est à destination de ceux qui souhaitent installer PrestaShop sur un hébergement en ligne.\
-Si vous souhaitez installer PrestaShop sur votre ordinateur, vous devriez d'abord suivre les instructions situées ici : [Installer PrestaShop sur votre propre ordinateur](http://doc.prestashop.com/display/PS16/Installer+PrestaShop+sur+votre+propre+ordinateur)[.](https://docs.prestashop-project.org/v.8-documentation/guide-demarrage/installer-prestashop-ordinateur)
+Si vous souhaitez installer PrestaShop sur votre ordinateur, vous devriez d'abord suivre les instructions situées ici : [Installer PrestaShop sur votre propre ordinateur.](installer-prestashop-ordinateur.md)
 
 Si vous avez déjà lu les instructions de cette autre page, allez directement à la section "Créer une base de données pour votre boutique" de la présente page.
 
