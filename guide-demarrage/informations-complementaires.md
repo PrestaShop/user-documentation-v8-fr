@@ -10,7 +10,7 @@ Après avoir confirmé que votre version d’essai fonctionne normalement, copie
 
 ## Vérifier la bibliothèque GD <a href="#informationscomplementaires-verifierlabibliothequegd" id="informationscomplementaires-verifierlabibliothequegd"></a>
 
-La [bibliothèque GD](http://www.boutell.com/gd/) permet à PrestaShop de retravailler les images que vous mettez en ligne, notamment de les redimensionner.
+La [bibliothèque GD](https://libgd.github.io/) permet à PrestaShop de retravailler les images que vous mettez en ligne, notamment de les redimensionner.
 
 Sur une installation par défaut de PHP, la bibliothèque GD doit être activée. Toutefois, si ce n’est pas le cas, les instructions standard de Windows sont :
 
