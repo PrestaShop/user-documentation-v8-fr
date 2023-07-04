@@ -40,6 +40,7 @@
       * [Gérer les stocks](guide-utilisateur/vendre/gerer-catalogue/gerer-stocks/README.md)
         * [Stocks](guide-utilisateur/vendre/gerer-catalogue/gerer-stocks/stocks.md)
         * [Mouvements de stocks](guide-utilisateur/vendre/gerer-catalogue/gerer-stocks/mouvements-stocks.md)
+      * [Nouvelle page Produits (PrestaShop 8.1)](guide-utilisateur/vendre/gerer-catalogue/nouvelle-page-produits-prestashop-8.1.md)
     * [Gérer le service client](guide-utilisateur/vendre/gerer-service-client/README.md)
       * [Le service client](guide-utilisateur/vendre/gerer-service-client/service-client.md)
       * [Messages prédéfinis](guide-utilisateur/vendre/gerer-service-client/messages-predefinis.md)

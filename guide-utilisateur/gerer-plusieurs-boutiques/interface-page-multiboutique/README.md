@@ -54,7 +54,7 @@ L'interface multiboutique évolue et le menu déroulant se transforme en en-têt
 La couleur des boutiques et des groupes de boutiques peut être modifée sur la page **Paramètres Avancés > Multiboutique.** Ainsi, la couleur de l'en-tête change selon du contexte dans lequel vous vous trouvez et vous pouvez ainsi savoir en un coup d'oeil sur quelle(s) boutique(s) vous êtes en train de travailler.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Appliquer des modifications à une boutique ou un groupe de boutiques
 

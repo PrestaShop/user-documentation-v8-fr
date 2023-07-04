@@ -14,7 +14,7 @@ Vous pouvez donc changer le contenu de la catégorie une fois pour toutes les bo
 
 **Catégories :** Un produit ne peut apparaitre dans une catégorie que s'il a été associée à celle-ci dans un contexte de boutique spécifique. Autrement dit, si la boutique A et la boutique B possèdent en commun la catégorie C dans le contexte de la boutique A, alors un produit P n'apparaitra pas dans la catégorie C de la boutique :
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Transporteurs :** Vous pouvez gérer les associations de transporteurs sur une boutique seule, pour un groupe de boutiques ou pour toutes les boutiques, mais vous ne pouvez pas personnaliser un transporteur pour une seule boutique. Il vous faudra sélectionner le même transporteur avec deux gammes de prix différentes dans les deux boutiques.
 
@@ -35,7 +35,7 @@ Si vous souhaitez partager les clients, il vous faudra suivre la même demarche 
 Il est possible pour les boutiques d'un même groupe de partager des commandes : il suffit de définir l'option appropriée lors de la création du groupe de boutiques. Si l'option "Partager les commandes" a été désactivée, votre liste de commandes devra être vide avant que vous puissiez l'activer. Si vous préférez conserver vos commandes, vous pouvez procéder comme suit :
 
 * **Allez dans votre logiciel de gestion de base de données**, comme par exemple phpMyAdmin.
-* **Recherchez la table** `ps_order.` **** Elle peut être différente, selon le préfixe de votre base de données.
+* **Recherchez la table** `ps_order.` Elle peut être différente, selon le préfixe de votre base de données.
 * **Exportez** cette table.
 * **Videz la table. Ne la déposez PAS.** Si vous souhaitez la supprimer, veillez à recréer la table par la suite.
 * **Retournez dans les paramètres** multi-magasins pour le groupe de magasins.

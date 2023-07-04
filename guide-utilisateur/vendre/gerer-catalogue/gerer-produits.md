@@ -1,10 +1,20 @@
 # Gérer les produits
 
-Vous pouvez gérer les produits de votre boutique par le biais de la page "Produits" du menu "Catalogue".
+Vous pouvez gérer les produits de votre boutique par le biais de la page **"Produits"** du menu **"Catalogue" :**
 
-_Nouveau depuis PrestaShop 1.7.6 !_ Le listing de vos produits contient désormais une colonne supplémentaire afin que vous puissiez visualiser rapidement les prix HT et TTC de chaque produit.
+{% hint style="info" %}
+**PrestaShop 8.1 benefits from a brand-new product page**: read the documentation here if you wish to learn more:
+{% endhint %}
 
-Ce chapitre contient les sections suivantes :
+{% content-ref url="nouvelle-page-produits-prestashop-8.1.md" %}
+[nouvelle-page-produits-prestashop-8.1.md](nouvelle-page-produits-prestashop-8.1.md)
+{% endcontent-ref %}
+
+
+
+
+
+## **Ce chapitre contient les sections suivantes :**
 
 * [Présentation de la page produit](gerer-produits.md#presentation-de-la-page-produit)
 * [Créer un produit](gerer-produits.md#creer-un-produit)

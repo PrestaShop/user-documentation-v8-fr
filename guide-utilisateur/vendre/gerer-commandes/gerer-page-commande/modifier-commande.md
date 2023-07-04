@@ -15,7 +15,7 @@ Il y a deux endroits sur la page commande où vous pouvez mettre à jour son sta
 
 Sélectionnez l'état souhaité dans la liste déroulante et cliquez sur le bouton "Mettre à jour l'état".
 
-![](<../../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../../.gitbook/assets/image (7) (1) (1).png>)
 
 Vous avez le choix entre plusieurs états :
 
@@ -27,7 +27,7 @@ D'autres états pourraient être disponibles dans cette liste en fonction des mo
 
 Afin d'avoir un meilleur aperçu de l'activité de la commande, chaque changement d'état est enregistré dans l'onglet "État" de la section administrative, ainsi que son auteur et la date/heure de mise à jour.
 
-![](<../../../../.gitbook/assets/image (9).png>)
+![](<../../../../.gitbook/assets/image (9) (1).png>)
 
 {% hint style="warning" %}
 **L'état d'une commande ne doit être mis à jour que lorsqu'il est** **clairement confirmé**. Par exemple, ne marquez pas une commande comme "Livré" lorsque vous n'avez fait qu'envoyer le colis, utilisez plutôt "Expédié".
@@ -114,7 +114,7 @@ Si l'adresse que vous souhaitez associer à la commande n'est pas déjà enregis
 * Remplissez le formulaire et sauvegardez
 * Retournez à la page des détails de la commande et sélectionnez l'adresse que vous venez d'ajouter dans la liste déroulante.
 
-![Section Addresses de la page Client](<../../../../.gitbook/assets/image (12) (1).png>)
+![Section Addresses de la page Client](<../../../../.gitbook/assets/image (12) (1) (1).png>)
 
 ## Gérer les paiements et les réductions
 
@@ -128,13 +128,13 @@ Pour enregistrer un nouveau paiement, allez à la section Paiements de la page C
 * Sélectionnez la facture sur laquelle vous souhaitez que ce paiement apparaisse
 * Cliquez sur le bouton "Ajouter" pour sauvegarder
 
-![](<../../../../.gitbook/assets/image (13) (1).png>)
+![](<../../../../.gitbook/assets/image (13) (1) (1).png>)
 
 ### Ajouter une réduction
 
 Dans la section Produits, en dessous de la liste des produits commandés, cliquez sur le bouton "Ajouter une réduction", et remplissez le formulaire :
 
-![](<../../../../.gitbook/assets/image (14).png>)
+![](<../../../../.gitbook/assets/image (14) (1).png>)
 
 * **Nom :** Donnez un nom à la réduction. Celui-ci sera visible par le client
 * **Type :** Choisissez le type de réduction : "pourcentage", "montant" ou "livraison gratuite"

@@ -18,8 +18,7 @@ Cette page contient les préférences se rattachant à la manière dont vos prod
 ![](../../../.gitbook/assets/64225332.png)
 
 * **Produits par page**. Indique le nombre de produits affichés sur les pages de vos catégories.
-* **Tri par défaut**. Indique l'ordre des produits dans les catégories de votre boutique. 8 choix sont possibles :\
-
+* **Tri par défaut**. Indique l'ordre des produits dans les catégories de votre boutique. 8 choix sont possibles :\\
   * _Nom du produit._ Affiche vos produits par ordre alphabétique de leurs noms.
   * _Prix du produit._ Affiche vos produits en fonction de leurs prix.
   * _Date d'ajout._ Affiche vos produits en fonction de leurs dates d'ajout.
@@ -48,8 +47,9 @@ Cette page contient les préférences se rattachant à la manière dont vos prod
 ![](../../../.gitbook/assets/64225336.png)
 
 * **Autoriser la commande de produits en rupture de stock**. Si un produit n'est plus disponible en stock, le client peut quand même le commander.
-* **Activer la gestion des stocks**. Cette option vous donne à accès un gestionnaire de stock basique : vous pouvez régler la quantité actuelle d'un produit, et laisser PrestaShop diminuer ce nombre à chaque commande, et en rajouter à chaque commande annulée et produit retourné. Par défaut, vous devriez laisser cette fonctionnalité activée. En effet, la désactivation affecte l'intégralité du gestionnaire d'inventaire de votre boutique. À ne désactiver que si vous n'avez aucun inventaire physique – par exemple, si vous ne vendez que des produits dématérialisés.\
-  ****
+*   **Activer la gestion des stocks**. Cette option vous donne à accès un gestionnaire de stock basique : vous pouvez régler la quantité actuelle d'un produit, et laisser PrestaShop diminuer ce nombre à chaque commande, et en rajouter à chaque commande annulée et produit retourné. Par défaut, vous devriez laisser cette fonctionnalité activée. En effet, la désactivation affecte l'intégralité du gestionnaire d'inventaire de votre boutique. À ne désactiver que si vous n'avez aucun inventaire physique – par exemple, si vous ne vendez que des produits dématérialisés.\\
+
+
 * **Etiquette pour produits en stock.** Affiche une mention pour les produits en stock.
 * **Etiquette pour produits en rupture de stock avec réassort autorisé.** Affiche une mention pour les produits hors stock avec réassort autorisé.
 * **Etiquette pour produits en rupture de stock sans réassort autorisé.** Affiche une mention pour les produits hors stock sans réassort autorisé.
