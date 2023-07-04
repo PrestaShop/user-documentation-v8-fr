@@ -3,14 +3,12 @@
 Vous pouvez gérer les produits de votre boutique par le biais de la page **"Produits"** du menu **"Catalogue" :**
 
 {% hint style="info" %}
-**PrestaShop 8.1 benefits from a brand-new product page**: read the documentation here if you wish to learn more:
+**PrestaShop 8.1 possède une nouvelle page produit.** Si vous souhaitez en savoir plus, une page de documentation est disponible ici :
 {% endhint %}
 
 {% content-ref url="nouvelle-page-produits-prestashop-8.1.md" %}
 [nouvelle-page-produits-prestashop-8.1.md](nouvelle-page-produits-prestashop-8.1.md)
 {% endcontent-ref %}
-
-
 
 
 

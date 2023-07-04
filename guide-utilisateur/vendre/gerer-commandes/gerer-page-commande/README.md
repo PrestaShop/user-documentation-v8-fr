@@ -21,11 +21,11 @@ Divisée en **6 sections**, la page vous donne accès à tous les détails d'une
 * le montant total
 * la date et l'heure de validation
 
-![](<../../../../.gitbook/assets/image (26) (1).png>)
+![](<../../../../.gitbook/assets/image (26).png>)
 
 :arrow\_upper\_left:Dans le **coin supérieur gauche**, la **section Client** vous donne des informations sur le client et le commentaire privé. Vous pouvez même accéder au dossier personnel du client pour voir plus de détails.
 
-![](<../../../../.gitbook/assets/image (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1).png>)
 
 :arrow\_upper\_right:Dans le **coin supérieur droit**, la **section Produits** vous donne accès à divers détails sur les produits commandés.
 

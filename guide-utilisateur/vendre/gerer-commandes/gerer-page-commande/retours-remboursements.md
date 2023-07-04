@@ -52,7 +52,7 @@ _Une nouvelle colonne apparaît dans le tableau des produits, intitulée "Rembou
 
 Les demandes de retour produits du client sont disponibles dans l'onglet Retours produits.
 
-![Onglet Retours produits dans la section administrative](<../../../../.gitbook/assets/image (15) (1) (1).png>)
+![Onglet Retours produits dans la section administrative](<../../../../.gitbook/assets/image (15) (1).png>)
 
 Pour enregistrer un retour produit, suivez les étapes :
 

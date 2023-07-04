@@ -29,4 +29,4 @@ PrestaShop 8.1 bénéficie d'une [nouvelle page produit.](../../vendre/gerer-cat
 Afin d'utiliser celle-ci, activez la sur la page **Fonctionnalités nouvelles et expérimentales** sur PrestaShop 8.1.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

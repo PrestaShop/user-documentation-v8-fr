@@ -2,16 +2,16 @@
 
 Pour ajouter une nouvelle boutique, allez sur la page **Paramètres Avancés > Multiboutique** et cliquez sur le bouton **"Ajouter une nouvelle boutique"** puis remplissez les champs.
 
-![](<../../../.gitbook/assets/image (12) (1).png>)
+![](<../../../.gitbook/assets/image (12).png>)
 
 * **Nom de la boutique** : Entrez un nom pour votre boutique.
 * **Couleur** : Vous pouvez aussi définir une couleur pour chacune de vos boutiques. L'en-tête changera de couleur en fonction de la boutique sur laquelle vous travaillez, vous permettant de savoir en un coup d'oeil dans quel contexte vous vous trouvez.
 
-<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (11) (2).png>)
+![](<../../../.gitbook/assets/image (11).png>)
 
 * **Groupe de boutiques** : Sélectionnez le groupe de boutiques dans lequel vous souhaitez ajouter la nouvelle boutique. Vous ne pouvez sélectionner qu'un seul groupe.
 

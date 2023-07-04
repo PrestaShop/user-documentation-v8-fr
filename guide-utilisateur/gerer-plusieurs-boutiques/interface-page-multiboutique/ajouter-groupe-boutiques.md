@@ -9,7 +9,7 @@ Les paramètres d'une boutique peuvent aussi être modifiées individuellement s
 Pour ajouter un nouveau groupe de boutiques, allez sur la page **Paramètres Avancés > Multiboutique,** cliquez sur le bouton **"Ajouter un nouveau groupe de boutiques"** et remplissez les champs.\
 
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 * **Nom du groupe :** Entrez un nom pour ce groupe de boutiques. Ce nom est privé : vous et votre équipe seront les seuls à le voir. Vous pouvez le modifier à tout moment.
 * **Couleur :** Vous pouvez également définir une couleur pour chaque groupe de boutiques. La couleur de l'en-tête changera en fonction du contexte dans lequel vous vous trouvez et vous pourrez savoir en un coup d'oeil sur quel groupe de boutiques vous êtes en train de travailler.

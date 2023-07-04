@@ -14,7 +14,7 @@ Vous pouvez donc changer le contenu de la catégorie une fois pour toutes les bo
 
 **Catégories :** Un produit ne peut apparaitre dans une catégorie que s'il a été associée à celle-ci dans un contexte de boutique spécifique. Autrement dit, si la boutique A et la boutique B possèdent en commun la catégorie C dans le contexte de la boutique A, alors un produit P n'apparaitra pas dans la catégorie C de la boutique :
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Transporteurs :** Vous pouvez gérer les associations de transporteurs sur une boutique seule, pour un groupe de boutiques ou pour toutes les boutiques, mais vous ne pouvez pas personnaliser un transporteur pour une seule boutique. Il vous faudra sélectionner le même transporteur avec deux gammes de prix différentes dans les deux boutiques.
 
