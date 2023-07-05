@@ -6,7 +6,7 @@ Un webservice (ou service Web) est une méthode de communication entre deux enti
 
 La page s'ouvre avec une liste des clés actuellement en place, s'il y en a. Une clé de webservice offre un accès unique à votre base, que vous donnez à un développeur afin qu'il lie son outil à votre boutique. N'en créez pas des centaines, car vous pourriez ne pas souhaiter que tout le monde puisse accéder à vos données.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Toutes les applications ne peuvent pas accéder au webservice de PrestaShop : vous décidez qui le peut, et ce que chacune est autorisée à faire. Chaque application dispose d'une clé de connexion unique, avec des droits d'accès spécifiques.
 
@@ -19,7 +19,7 @@ Le bouton "Ajouter une clé de webservice" vous emmène au formulaire de créati
 * **Statut**. Vous pouvez désactiver une clé aussitôt que nécessaire. Cela vous permet de ne donner qu'un accès temfporaire à vos données pour certaines clés.
 * **Permissions**. Vous n'avez pas à partager TOUTES vos données avec chaque clé. Vous pouvez choisir parmi une grande quantité de permissions, soit par section, soit par type d'accès. Certaines applications n'auront ainsi que le droit de lire une poignée d'éléments, tandis que d'autres (par exemple, celle que vous souhaitez utiliser pour gérer votre boutique à distance) devront avoir le droit de modifier et effacer à peu près toutes les données. Par conséquent, nous vous recommandons de faire un choix éclairé.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Configuration <a href="#parametresduserviceweb-configuration" id="parametresduserviceweb-configuration"></a>
 

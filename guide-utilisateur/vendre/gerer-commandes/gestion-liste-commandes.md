@@ -27,7 +27,7 @@ Veuillez noter qu’il n’est pas possible d’importer une commande. \*\*\*\*
 
 ## **Afficher les détails d'une commande**
 
-![](<../../../.gitbook/assets/image (23) (1).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 Vous pouvez visualiser les détails d'une commande en cliquant sur la flèche vers le bas, à côté de l'identifiant de la commande. Cela affichera :
 

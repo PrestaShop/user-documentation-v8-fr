@@ -114,7 +114,7 @@ Si l'adresse que vous souhaitez associer à la commande n'est pas déjà enregis
 * Remplissez le formulaire et sauvegardez
 * Retournez à la page des détails de la commande et sélectionnez l'adresse que vous venez d'ajouter dans la liste déroulante.
 
-![Section Addresses de la page Client](<../../../../.gitbook/assets/image (12) (1).png>)
+![Section Addresses de la page Client](<../../../../.gitbook/assets/image (12) (1) (1).png>)
 
 ## Gérer les paiements et les réductions
 

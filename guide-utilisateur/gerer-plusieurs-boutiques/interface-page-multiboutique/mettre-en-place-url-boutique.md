@@ -42,7 +42,7 @@ Pour mettre en place l'URL d'une boutique:
 
 **Options de l'URL:**
 
-![](<../../../.gitbook/assets/image (48).png>)
+![](<../../../.gitbook/assets/image (48) (1).png>)
 
 * **Boutique :** Sélectionnez la boutique pour laquelle vous souhaitez mettre en place l'URL.
 * **URL principale :** Basculez le bouton sur "Oui" si vous souhaitez que toutes les URLs de cette boutique renvoient vers votre URL principale.
@@ -50,7 +50,7 @@ Pour mettre en place l'URL d'une boutique:
 
 **URL de votre boutique:**
 
-![](<../../../.gitbook/assets/image (50).png>)
+![](<../../../.gitbook/assets/image (50) (2).png>)
 
 * **Domaine** : Saisissez le nom de domaine de la boutique. Vous pouvez indiquer un sous-domaine si nécessaire. Assurez-vous simplement qu'il ne contient pas '`http://`', ou tout autre '`/`'. Exemple : `www.example.com` ou `kids.example.com`.
 * **Domaine SSL** : Si votre domaine SSL est différent de votre domaine principal, veillez à l'indiquer dans ce champ.
