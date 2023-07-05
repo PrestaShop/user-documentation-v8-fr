@@ -217,9 +217,9 @@ Il arrive que des clients achètent vos produits lorsque vous mettez à jour vot
 Désormais, plus besoin de vous souciez de la fiabilité du stock de votre boutique !
 {% endhint %}
 
-#### Derniers mouvements de stock
+### Mouvement récents des stocks
 
-Afin d'avoir une meilleure vue d'ensemble de votre stock, un récapitulatif des 5 derniers mouvements de stock est affiché dans l'onglet **"Derniers mouvement de stock" :**
+Afin d'avoir une meilleure vue d'ensemble de votre stock, un récapitulatif des 5 derniers mouvements de stock est affiché dans l'onglet **"Mouvement récents des stocks" :**
 
 <figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
@@ -266,6 +266,8 @@ Ce changement vous aide à comprendre si les changements effectués sont en lign
 Le pied de page devient dynamique et s'adapte en fonction de vos actions.
 
 Les modifications peuvent être annulées, prévisualisée, enregistrées ou publiées :&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Par exemple, si modifications n'ont pas été sauvegardées, toute action qui vous permettrait de quitter la page actuelle sera désactivée.
