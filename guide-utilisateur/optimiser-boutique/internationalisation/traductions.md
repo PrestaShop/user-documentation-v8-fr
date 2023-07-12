@@ -28,7 +28,7 @@ Certaines catégories disposent d'une deuxième liste déroulante pour affiner v
 
 ## **Rechercher une chaîne en particulier**
 
-![](<../../../.gitbook/assets/image (47) (1).png>)
+![](<../../../.gitbook/assets/image (47).png>)
 
 En haut à gauche de la page, il y a une barre de recherche qui vous permet de rechercher un mot ou une chaîne spécifique.
 
@@ -36,7 +36,7 @@ Vous pouvez également trouver rapidement les chaînes non traduites. En haut à
 
 ## Parcourir les traductions
 
-![](<../../../.gitbook/assets/image (53) (1).png>)
+![](<../../../.gitbook/assets/image (53).png>)
 
 Le menu situé à gauche de la page vous permet de parcourir toutes les chaînes d'une catégorie. Toutes les chaînes sont organisées en ce que l'on appelle des "domaines de traduction". Les domaines de traduction visent à donner plus de contexte aux traducteurs, en indiquant où la chaîne apparaît sur le logiciel PrestaShop. Pour en savoir plus sur les domaines de traduction, consultez la page dédiée sur le guide [Content style guide](traductions.md#selectionner-le-type-de-traduction-a-modifier) du projet PrestaShop.
 
@@ -65,23 +65,23 @@ Il existe deux façons de modifier la traduction d'un courriel :
 Veillez à conserver les variables (par exemple `{lastname}` ou `{shop_name}`) dans vos traductions. Elles seront remplacées par la bonne valeur lors de l'envoi de l'e-mail.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (52) (1).png>)
+![](<../../../.gitbook/assets/image (52).png>)
 
 ## Réinitialiser les traductions
 
-![](<../../../.gitbook/assets/image (56) (1).png>)
+![](<../../../.gitbook/assets/image (56).png>)
 
 Pour remplacer une traduction personnalisée par la traduction officielle de PrestaShop, cliquez sur le bouton "Réinitialiser" à côté de la chaîne. Si le champ est vide, cela signifie qu'aucune traduction officielle n'est disponible pour le moment. N'hésitez pas à [contribuer au projet de traduction](https://crowdin.com/project/prestashop-official) si vous souhaitez mettre votre traduction à la disposition d'autres marchands.
 
 ## Ajouter ou mettre à jour une langue
 
-![](<../../../.gitbook/assets/image (49) (1).png>)
+![](<../../../.gitbook/assets/image (49).png>)
 
 Pour ajouter ou mettre à jour une langue, sélectionnez la langue souhaitée dans la liste et cliquez sur le bouton "Ajouter ou mettre à jour la langue". Si vous avez ajouté une nouvelle langue, vous pouvez ensuite la gérer dans **Localisation > Langues**.
 
 ## Exporter des traductions
 
-![](<../../../.gitbook/assets/image (50) (1).png>)
+![](<../../../.gitbook/assets/image (50) (1) (1).png>)
 
 Vous pouvez créer votre propre pack de langues à l'aide de cette fonctonnalité, soit pour faire une sauvegarde de vos traductions, soit pour les partager. Tout d'abord, sélectionnez la langue dans laquelle vous souhaitez exporter des traductions. Ensuite, sélectionnez le type de traductions que vous souhaitez :
 
@@ -93,7 +93,7 @@ Chaque catégorie dispose d'une deuxième liste déroulante ou de cases à coche
 
 ## Copier les traductions d'une langue vers une autre
 
-![](<../../../.gitbook/assets/image (41) (1).png>)
+![](<../../../.gitbook/assets/image (41).png>)
 
 Vous pouvez copier le contenu d'une langue vers une autre. C'est particulièrement utile lorsque vous souhaitez remplacer la langue d'un thème par la même langue en provenance d'un autre thème.
 

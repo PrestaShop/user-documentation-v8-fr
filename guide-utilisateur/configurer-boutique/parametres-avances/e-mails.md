@@ -69,4 +69,4 @@ Les signatures [DKIM](https://fr.wikipedia.org/wiki/DomainKeys\_Identified\_Mail
 
 La connexion DKIM peut être activée dans Paramètres Avancés > E-mail.
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

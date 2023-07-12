@@ -42,13 +42,13 @@ Lorsque la fonctionnalité multiboutique est activée, vous pouvez appliquer des
 
 Le menu déroulant en haut de chaque page du back-office indique le contexte dans lequel vous travaillez (toutes les boutiques, groupe de boutiques, ou une boutique spécifique).
 
-![](<../../../.gitbook/assets/image (45) (1).png>)
+![](<../../../.gitbook/assets/image (45).png>)
 
 #### L'en-tête
 
 L'interface multiboutique évolue et le menu déroulant se transforme en en-tête sur la plupart des pages.
 
-![](<../../../.gitbook/assets/image (42) (1).png>)
+![](<../../../.gitbook/assets/image (42).png>)
 
 {% hint style="success" %}
 La couleur des boutiques et des groupes de boutiques peut être modifée sur la page **Paramètres Avancés > Multiboutique.** Ainsi, la couleur de l'en-tête change selon du contexte dans lequel vous vous trouvez et vous pouvez ainsi savoir en un coup d'oeil sur quelle(s) boutique(s) vous êtes en train de travailler.
@@ -86,7 +86,7 @@ Si la case est cochée la prochaine fois que vous vous rendrez sur la page, cela
 
 Par exemple, dans la capture d'écran ci-dessous, la case à côté du paramètre "Texte de maintenance" est cochée. Cela signifie que ce paramètre est personnalisé dans la boutique 1.
 
-![](<../../../.gitbook/assets/image (57) (1).png>)
+![](<../../../.gitbook/assets/image (57).png>)
 
 ### Garder la trace des modifications apportées à une seule boutique
 
@@ -96,7 +96,7 @@ Grâce à la liste déroulante des paramètres spécifiques, si vous apportez de
 
 Ainsi, si vous voyez cette liste déroulante à côté d'un paramètre, cela signifie que ce paramètre a été personnalisé dans au moins une boutique. Déployez la liste déroulante pour voir quelle boutique est concernée.
 
-![](<../../../.gitbook/assets/image (55) (1).png>)
+![](<../../../.gitbook/assets/image (55).png>)
 
 **Personnalisé :** Le paramètre a été modifié dans une boutique.
 

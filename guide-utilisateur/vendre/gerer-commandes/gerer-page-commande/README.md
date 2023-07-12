@@ -21,15 +21,15 @@ Divisée en **6 sections**, la page vous donne accès à tous les détails d'une
 * le montant total
 * la date et l'heure de validation
 
-![](<../../../../.gitbook/assets/image (26) (1).png>)
+![](<../../../../.gitbook/assets/image (26).png>)
 
 :arrow\_upper\_left:Dans le **coin supérieur gauche**, la **section Client** vous donne des informations sur le client et le commentaire privé. Vous pouvez même accéder au dossier personnel du client pour voir plus de détails.
 
-![](<../../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../../.gitbook/assets/image (1) (3).png>)
 
 :arrow\_upper\_right:Dans le **coin supérieur droit**, la **section Produits** vous donne accès à divers détails sur les produits commandés.
 
-![](<../../../../.gitbook/assets/image (2) (2).png>)
+![](<../../../../.gitbook/assets/image (2).png>)
 
 :arrow\_down\_small:Juste **en dessous de la section Produits**, il y a une **section administrative** qui contient quatre onglets qui vous donnent accès à :
 
@@ -38,11 +38,11 @@ Divisée en **6 sections**, la page vous donne accès à tous les détails d'une
 * les informations relatives à la livraison
 * les retours produit
 
-![](<../../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../../.gitbook/assets/image (3).png>)
 
 :arrow\_lower\_right:Dans le **coin inférieur droit**, la **section Paiement** vous donne des informations sur les détails du paiement (date de la transaction, méthode utilisée, montant total, etc.) Vous pouvez également enregistrer un nouveau paiement.
 
-![](<../../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../../.gitbook/assets/image (4) (1) (1).png>)
 
 :arrow\_lower\_left:Enfin, dans le **coin inférieur gauche**, la **section Messages** vous permet d'envoyer un message au client à propos de sa commande ou de laisser un message privé à votre équipe.
 

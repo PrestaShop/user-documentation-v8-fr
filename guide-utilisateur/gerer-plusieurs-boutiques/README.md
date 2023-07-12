@@ -11,7 +11,7 @@ Cette fonctionnalité est particulièrement utile si vous vous trouvez dans l'un
 
 ## Activer la fonctionnalité multiboutique
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 1. Allez sur la page **Paramètres Avancés > Paramètres généraux**.
 2. Activez la fonctionnalité **multiboutique** et **enregistrez**.

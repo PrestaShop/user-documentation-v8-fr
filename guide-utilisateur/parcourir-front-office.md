@@ -14,7 +14,7 @@ Si vous souhaitez changer de thème, choisissez en un parmi le large choix de th
 
 ## Le thème par défaut
 
-![](<../.gitbook/assets/image (24) (1).png>)
+![](<../.gitbook/assets/image (24).png>)
 
 PrestaShop est livré avec un thème par défaut qui utilise un design simple et épuré, en gris et blanc. Ce minimalisme permet de s'adapter à presque tous les secteurs d'activité. Il a été conçu pour être facile à parcourir, ergonomique, conforme aux bonnes pratiques web et adapté à toutes les tailles d'écran, à tous les appareils.
 
@@ -124,7 +124,7 @@ Veuillez noter que l'envoi de la newsletter est de votre ressort. Grâce au modu
 
 #### La colonne de gauche
 
-![En rouge le bloc "Catégorie", en bleu le bloc "Filtrer par"](<../.gitbook/assets/image (32) (1).png>)
+![En rouge le bloc "Catégorie", en bleu le bloc "Filtrer par"](<../.gitbook/assets/image (32).png>)
 
 **Le bloc "Catégorie"**
 
@@ -146,7 +146,7 @@ Filtrer leur recherche permet aux clients de trouver le produit qu'ils recherche
 
 #### **L'en-tête de catégorie**
 
-![](<../.gitbook/assets/image (33) (1).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 Les catégories peuvent comporter une image d'en-tête avec une description. Vous pouvez configurer cet en-tête depuis votre back-office sur la page Catalogue > Catégories.
 
@@ -165,7 +165,7 @@ Cette présentation sous forme de liste permet au client de voir en un coup d'œ
 
 Au survol de la souris, le client peut cliquer sur la loupe pour accéder à un aperçu rapide du produit. Il aura alors accès, en plus des informations précédemment énoncées, à la description du produit, et pourra ajouter le produit à son panier après avoir sélectionné les attributs (s'il y en a) et saisi la quantité souhaitée.
 
-![](<../.gitbook/assets/image (27) (1) (1).png>)
+![](<../.gitbook/assets/image (27) (1).png>)
 
 **Le tri des produits**
 
@@ -173,7 +173,7 @@ Les produits peuvent être triés selon le prix (croissant ou décroissant), le 
 
 ### La page produit
 
-![](<../.gitbook/assets/image (34) (1).png>)
+![](<../.gitbook/assets/image (34).png>)
 
 La page produit met en avant les informations saisies depuis la page Catalogue > Produits de votre back-office. Selon le thème utilisé, une page de produit peut être très complète, avec des informations détaillées, ou simplement présenter les informations essentielles.
 
@@ -228,7 +228,7 @@ En cliquant sur "Connexion" dans l'en-tête, le visiteur est redirigé vers une 
 
 Une fois inscrit, le client accéde à son compte client où de nombreuses options sont accessibles. Le client peut notamment ajouter une première adresse - son adresse par défaut mais il peut en avoir d'autres ! Si le client n'a qu'une seule adresse enregistrée, elle sera utilisée à la fois comme adresse de livraison et de facturation. Au cours du processus de commande, le client peut toujours choisir d'utiliser une adresse différente.
 
-![](<../.gitbook/assets/image (26) (1) (1).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 {% hint style="success" %}
 La commande express (option accessible dans les paramètres de commande du back-office) permet aux visiteurs d'acheter des produits sans avoir à créer de compte. Les informations essentielles à la livraison ou au paiement restent requises mais le client n'aura jamais à créer de mot de passe.

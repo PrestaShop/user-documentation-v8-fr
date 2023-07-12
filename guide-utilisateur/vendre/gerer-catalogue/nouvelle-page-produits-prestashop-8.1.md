@@ -10,7 +10,7 @@ description: >-
 Afin d'utiliser la nouvelle page produit, activez la sur la page [Fonctionnalités nouvelles et expérimentales](../../configurer-boutique/parametres-avances/fonctionnalites-experimentales.md#fonctionnalites-nouvelles-et-experimentales-prestashop-8.1) sur **PrestaShop 8.1.**
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Ajouter un nouveau produit
 
@@ -18,7 +18,7 @@ Afin d'ajouter un nouveau produit dans votre catalogue, cliquez sur le bouton **
 
 Une nouvelle fenêtre s'ouvre. Vous trouverez ici les **4 types de produits** que vous pouvez ajouter à votre boutique. Les onglets affichés sur la page de création de produit diffèrent seront le type de produit :
 
-<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Produit standard :** _Un produit tangible qui doit être expédié._ L'onglet **Quantités** est affiché. Il est **impossible d'ajouter des déclinaisons à un produit standard.**
 * **Produit avec déclinaisons :** _Un produit possédant différentes variantes_ _(taille, couleur, etc.) parmi lesquels vos clients peuvent choisir._ L'onglet **Déclinaisons** est affiché, et l'onglet Quantités disparaît.
@@ -46,7 +46,7 @@ PrestaShop 8.1 bénéficie d'une nouvelle page Déclinaisons. Une fenêtre de g�
 
 Si vous souhaitez sélectionner une seule valeur par attribut, **cliquer sur l'attribut** choisi (taille, couleur, etc.) puis **sélectionnez les valeurs** que vous souhaitez ajouter à votre produit.
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
 
 Afin de sélectionner toutes les déclinaisons d'un attribut, **cliquez** sur la case **"Sélectionner toutes les valeurs"** à droite de l'attribut choisi :&#x20;
 
@@ -55,7 +55,7 @@ Afin de sélectionner toutes les déclinaisons d'un attribut, **cliquez** sur la
 {% hint style="info" %}
 Vous pouvez chercher un attribut spécifique grâce au champ de recherche **"Rechercher des attributs..." :**
 
-<img src="../../../.gitbook/assets/image (57).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (57) (1).png" alt="" data-size="original">
 
 Celui-ci peut s'avérer très pratique si vous possédez un grand nombre de  déclinaisons dans votre catalogue.
 {% endhint %}
@@ -66,7 +66,7 @@ Si vous sélectionnez toutes les valeurs des attributs "Taille" et "Couleur", vo
 
 Lorsque vous utilisez le **mode multiboutique**, vous pouvez générer des attributs pour toutes vos boutiques en sélectionnant l'option **"Générer les déclinaisons pour toutes les boutiques"**, à gauche du bouton "Annuler".
 
-<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Gérer les déclinaisons
 
@@ -94,7 +94,7 @@ Puis, cliquez sur la liste déroulante de chaque catégorie (par exemple, "Prix 
 
 Ensuite, activez le champ grâce au bouton à bascule (activer/désactiver) situé à droite du champ et **insérez la valeur de votre choix :**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Par défaut, **la valeur de base de tous les champs est 0.**
@@ -120,7 +120,7 @@ La nouvelle page produit possède désormais une option de pagination. Elle vous
 
 
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 La mise en place d'un système de pagination réduit grandement le temps de chargement de la page. Vous pouvez désormais ajouter autant de déclinaisons que vous le voulez sans vous soucier des performances de votre back-office.
 
@@ -139,7 +139,7 @@ Pour ajouter une nouvelle règle de taxe à votre prix de vente TTC :
 
 Le prix de vente (TTC) du produit sera automatiquement calculé.
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Je ne trouve pas une règle de taxe dans la liste.**
@@ -155,7 +155,7 @@ Vous pouvez également importer les taxes d'un [pack de localisation](https://do
 
 Le récapitulatif du prix de revient de votre produit est désormais affiché en clair. Il vous permet de comprendre le prix et le coût de votre produit en un clin d'oeil :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
 À titre de rappel, le taux de marge est calculé ainsi :
 
@@ -193,7 +193,7 @@ Les actions groupées permettent de remplacer plusieurs images à la fois. Déso
 
 Vous pouvez désormais **choisir l'image** que vous souhaitez associer à vos déclinaisons.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Supprimer plusieurs images
 
@@ -201,7 +201,7 @@ Il est possible de supprimer les images en groupe.&#x20;
 
 Pour ce faire, sélectionnez les images que vous souhaitez supprimer et cliquez sur le bouton **"Supprimer la sélection" :**
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Stocks
 
@@ -221,7 +221,7 @@ Désormais, plus besoin de vous souciez de la fiabilité du stock de votre bouti
 
 Afin d'avoir une meilleure vue d'ensemble de votre stock, un récapitulatif des 5 derniers mouvements de stock est affiché dans l'onglet **"Mouvement récents des stocks" :**
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ces mouvements de stocks prennent également en compte les mouvement de stock liés aux commandes (qui inclut les ventes et les retours de produits entre 2 mouvements de stocks)
 
@@ -251,7 +251,7 @@ Les libéllés du pied de page ont été modifiés pour plus de calrté. Le bout
 
 * **Enregistrer :** enregistre le produit lors de sa création ou lorsque le produit est hors ligne (non publié) sur votre boutique.
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Enregistrer et publier :** enregistre le produit et le publie sur votre boutique.
 
@@ -273,4 +273,4 @@ Les modifications peuvent être annulées, prévisualisée, enregistrées ou pub
 Par exemple, si modifications n'ont pas été sauvegardées, toute action qui vous permettrait de quitter la page actuelle sera désactivée.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46) (2).png" alt=""><figcaption></figcaption></figure>
