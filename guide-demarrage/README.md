@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner8.png
+coverY: 0
+---
+
 # Guide de démarrage PrestaShop 8
 
 ## Guide de démarrage
