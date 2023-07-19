@@ -35,8 +35,6 @@ Pour créer une nouvelle langue, vous devez remplir autant de champs du formulai
 
 Assurez que tout fonctionne : rendez-vous sur le front office de votre boutique, et cliquez sur les drapeaux tout en haut. De la même manière, les clients pourront choisir une autre langue en utilisant ces icônes.
 
-Sharing your translations with the community
+## **Partager vos traductions avec la communauté PrestaShop**
 
-Vous avez peut-être traduit tout une langue directement via l'interface de PrestaShop. Vous pouvez en faire bénéficier la communauté PrestaShop en envoyant un export à [translation@prestashop.com.](mailto:translation@prestashop.com.) Nous nous chargerons de mettre en ligne votre contribution dans notre [projet de traduction](https://crowdin.com/project/prestashop-official), pour que les marchands qui parlent votre langue puissent en profiter aussi !
-
-Pour exporter vos traductions, rendez-vous dans la page "Traductions" du menu "International", section "Exporter des traductions".
+Vous avez peut-être traduit tout une langue directement via l'interface de PrestaShop. Vous pouvez en faire bénéficier la communauté PrestaShop en contribuant au [projet de traduction PrestaShop sur Crowdin](https://crowdin.com/project/prestashop-official) afin que les marchands qui parlent votre langue puissent en profiter aussi !
