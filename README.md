@@ -2,7 +2,7 @@
 
 Tout comme le logiciel PrestaShop, la [documentation](https://docs.prestashop-project.org) est ouverte à tous pour des suggestions, des idées, et des modifications. Tout le monde est bienvenu, et même encouragé, à contribuer à la traduction, à la mise à jour, et à l'écriture de la documentation utilisateur de PrestaShop 8.
 
-![](.gitbook/assets/build-puffin-writing.png)
+<figure><img src=".gitbook/assets/Web image-PhotoAdobeStock_511091438_HD.jpg" alt=""><figcaption></figcaption></figure>
 
 GitBook et GitHub sont synchronisés : si vous modifiez le contenu de n'importe quelle page sur GitBook, vos modifications seront automatiquement poussées vers le repository GitHub. Inversement, les changements apportés sur GitHub seront pris en compte sur GitBook.
 
