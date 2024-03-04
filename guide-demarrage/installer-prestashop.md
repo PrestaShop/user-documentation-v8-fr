@@ -30,9 +30,9 @@ Veillez d’abord à suivre les instructions figurant dans la section **“Ce do
 [ce-dont-vous-avez-besoin.md](ce-dont-vous-avez-besoin.md)
 {% endcontent-ref %}
 
-Notre partenaire d’hébergement web **1&1 IONOS** vous propose une installation en 1 clic pour vous faire gagner du temps et vous aider à démarrer encore plus vite. Le temps d’installation peut ainsi être considérablement réduit pour les utilisateurs inexpérimentés.
+Notre partenaire d’hébergement web **IONOS** vous propose une installation en 1 clic pour vous faire gagner du temps et vous aider à démarrer encore plus vite. Le temps d’installation peut ainsi être considérablement réduit pour les utilisateurs inexpérimentés.
 
-* [1&1 IONOS Hosting](https://www.ionos.fr/solutions-ecommerce/hebergement-prestashop?ac=OM.FR.FRs96K414092T7073a)
+* [IONOS Hosting](https://www.ionos.fr/solutions-ecommerce/hebergement-prestashop?ac=OM.FR.FRs96K414092T7073a)
 
 Ces hébergeurs web utilisent principalement les bibliothèques de scripts suivantes :
 
