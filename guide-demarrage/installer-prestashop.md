@@ -13,13 +13,13 @@ Si vous avez déjà lu les instructions de cette autre page, allez directement �
 
 ## Installation
 
-PrestaShop est très facile à installer. Une fois que tous les fichiers sont sur votre serveur web, vous pouvez normalement commencer la configuration de votre boutique après moins de 5 minutes dans la plupart des cas. En effet, le processus d’installation est très simple car l’installateur s’occupe de tout.&#x20;
+PrestaShop ne devrait pas être difficile à installer. Une fois que tous les fichiers sont sur votre serveur web, vous pouvez normalement commencer la configuration de votre boutique après moins de 5 minutes dans la plupart des cas. En effet, le processus d’installation est très simple car l’installateur s’occupe de tout.&#x20;
 
 Les utilisateurs moins expérimentés mettront peut-être 10 à 20 minutes pour réaliser l’installation.
 
 Avant de commencer, assurez-vous que toutes les exigences sont remplies :&#x20;
 
-* **espace serveur chez un fournisseur d’hébergement,**&#x20;
+* **vous avez assez d'espace serveur chez un fournisseur d’hébergement,**&#x20;
 * **nom de domaine,**&#x20;
 * **client FTP,**
 * **éditeur de texte.**&#x20;
@@ -43,13 +43,17 @@ Certains de ces scripts prennent même en charge la mise à jour en 1 clic, ce q
 
 D’autres hébergeurs ont leurs propres scripts d’installation. Pour de plus amples informations, renseignez-vous auprès de votre hébergeur.
 
+{% hint style="info" %}
+Soyez prudent avec la fonctionnalité de mise à jour en un clic fournie par les fournisseurs d'hébergement. Il est recommandé de la vérifier d'abord sur une copie de votre boutique.
+{% endhint %}
+
 ## Instructions d’installation rapides
 
 Voici un ensemble d’instructions rapides pour les utilisateurs qui connaissent déjà bien le processus d’installation des applications PHP/MySQL sur un serveur web. Vous trouverez des instructions détaillées dans la section suivante de ce chapitre si nécessaire.
 
 1. Si vous ne l’avez pas fait, **téléchargez et décompressez le package PrestaShop.**
 2. Si possible, **créez une base de données** pour la boutique PrestaShop sur votre serveur web. Si aucun utilisateur MySQL ne dispose de tous les droits d’accès et de modification pour cette base de données, créez-en un.
-3. **Téléchargez-y** les trois fichiers de PrestaShop en ligne à l’emplacement sélectionné sur votre serveur web, y compris le fichier .zip (il se décompressera automatiquement ensuite).
+3. **Téléchargez-y** tous les fichiers de PrestaShop en ligne à l’emplacement sélectionné sur votre serveur web, y compris le fichier .zip (il se décompressera automatiquement ensuite).
 4. **Exécutez le script** d’installation de PrestaShop en accédant à l’URL publique de l’emplacement sélectionné dans un navigateur web. Il doit s’agir de l’URL où vous avez mis les fichiers de PrestaShop en ligne.
 5. **Suivez les instructions** affichées sur chaque écran de l’installateur.
 6. Une fois l’installation terminée, **supprimez le dossier `/install` et notez le nouveau nom du dossier `/admin`**, nom que vous seul connaissez pour des raisons de sécurité.
@@ -72,11 +76,13 @@ Vous n’avez ici qu’une option de téléchargement : **la dernière version s
 
 {% hint style="info" %}
 Si vous avez besoin de télécharger une version antérieure, rendez-vous sur la page de [Releases GitHub](https://github.com/PrestaShop/PrestaShop/releases) et téléchargez la version désirée.
-
-Il **n’est pas conseillé d’utiliser une autre version que la version stable actuelle.**
 {% endhint %}
 
-**Cliquez** sur la version que vous souhaitez télécharger, cliquez sur la section **"Assets"** et enregistrez l’archive .zip sur votre ordinateur (par exemple, sur votre Bureau). Vous devez obtenir un fichier nommé “prestashop\_8.0.4.zip” (ou équivalent, selon le numéro de version):
+{% hint style="danger" %}
+Pour profiter des dernières fonctionnalités et mises à jour de sécurité, il **est fortement recommandé d’utiliser la dernière version stable et d'éviter toute autre version.**
+{% endhint %}
+
+**Cliquez** sur la version que vous souhaitez télécharger, cliquez sur la section **"Assets"** et enregistrez l’archive .zip sur votre ordinateur (par exemple, sur votre Bureau). Vous devez obtenir un fichier nommé “prestashop\_X.Y.Z.zip” (prestashop\_8.1.0.zip, par exemple, ou un équivalent, selon le numéro de version).
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption><p>Page de téléchargement GitHub de PrestaShop 8.0.4. La section "Assets" est situé en bas de la page.</p></figcaption></figure>
 
@@ -88,7 +94,7 @@ Si votre système d’exploitation ne prend pas en charge les fichiers .zip, vou
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | <p><strong>7-Zip</strong></p><p><a href="http://www.7-zip.org/">http://www.7-zip.org/</a></p>                         | <p><strong>iZip</strong><br><a href="http://www.izip.com/">http://www.izip.com/</a></p>               |
 | <p><strong>WinZip</strong><br><a href="http://www.winzip.com/win/en/index.htm">http://www.winzip.com/win/</a></p>     | <p><strong>WinZip</strong><br><a href="http://www.winzip.com/mac/">http://www.winzip.com/mac/</a></p> |
-| <p><strong>WinRAR</strong><br><a href="https://www.win-rar.com/start.html?&#x26;L=10">https://www.win-rar.com</a></p> |                                                                                                       |
+| <p><strong>WinRAR</strong><br><a href="https://www.win-rar.com/start.html?&#x26;L=10">https://www.win-rar.com</a></p> | Les versions récentes de MacOS vous permettent de dézipper le fichier nativement.                     |
 
 Procédez à l’extraction du contenu de l’archive vers un emplacement connu de votre disque dur (comme le Bureau).&#x20;
 
@@ -96,7 +102,7 @@ Procédez à l’extraction du contenu de l’archive vers un emplacement connu 
 **Ne mettez pas le fichier .zip directement en ligne sur votre serveur web**.
 {% endhint %}
 
-L’archive .zip possède trois éléments à sa racine :
+L’archive .zip a quelques éléments à sa racine :
 
 * **Le fichier “prestashop.zip”**, qui contient tous les fichiers de PrestaShop que vous mettrez bientôt en ligne sur votre serveur web.
 * **Le fichier “Install\_PrestaShop.html”**, qui ouvre cette page dans votre navigateur par défaut.
@@ -122,8 +128,8 @@ Dans cette étape, vous allez mettre les fichiers de PrestaShop en ligne sur vot
 
 #### Votre hébergeur :
 
-* Certains hébergeurs peuvent vous obliger à placer vos fichiers dans un dossier spécifique, comme `/htdocs`, `/public_html`, `/web`, `/www`, `/`[votrenomdedomaine.com](http://yourdomainname.com), etc.
-* Le serveur FTP d’autres hébergeurs vous connectera directement à l’espace de mise en ligne approprié.
+* Certains hébergeurs peuvent vous obliger à placer vos fichiers dans un dossier spécifique, comme `/htdocs`, `/public_html`, `/web`, `/www`, `/`votrenomdedomaine.com, /domains/yourdomainname.com/public\_html/, etc.
+* Les serveurs FTP des autres hébergeurs vous connecteront directement à l’espace de mise en ligne approprié.
 
 #### Vos besoins :
 
@@ -147,17 +153,17 @@ Dans FileZilla, vous avez maintenant le dossier local où vous conservez les fic
 
 La mise en ligne est simple, même pour les utilisateurs inexpérimentés :&#x20;
 
-1. **Sélectionnez** les trois fichiers dans le dossier local (utilisez Ctrl+A)
+1. **Sélectionnez** tous les fichiers dans le dossier local (utilisez Ctrl+A)
 2. **Faites-les glisser** dans le dossier distant (ou effectuez un **clic droit** sur la sélection et choisissez **“Mettre en ligne”** dans le menu contextuel).
 
 ### Créer une base de données pour votre boutique
 
-Avant de pouvoir installer PrestaShop, vous devez veiller à ce que votre serveur MySQL possède une base de données opérationnelle pour les données de PrestaShop. Si ce n’est pas le cas, vous devez en créer une.
+Avant de pouvoir installer PrestaShop, vous devez veiller à ce que votre serveur MySQL/MariaDB possède une base de données opérationnelle pour les données de PrestaShop. Si ce n’est pas le cas, vous devez en créer une.
 
 La création d’une base de données peut se faire à l’aide de n’importe quel outil d’administration de bases de données. Nous allons utiliser l’outil gratuit phpMyAdmin ([http://www.phpmyadmin.net/](http://www.phpmyadmin.net)), qui est préinstallé sur la plupart des solutions d’hébergement web.
 
 {% hint style="info" %}
-Certains hébergeurs préfèrent que les clients utilisent un panneau de contrôle graphique comme cPanel, Plesk ou un panneau personnalisé. Assurez-vous de lire la documentation de votre hébergeur sur la gestion des bases de données MySQL et créez une base de données pour votre boutique en suivant précisément ses explications.
+Certains hébergeurs préfèrent que les clients utilisent un panneau de contrôle graphique comme cPanel, Plesk, DirectAdmin, ou un panneau personnalisé. Assurez-vous de lire la documentation de votre hébergeur sur la gestion des bases de données MySQL et créez une base de données pour votre boutique en suivant précisément ses explications.
 {% endhint %}
 
 **Pour créer une base de données, connectez-vous à phpMyAdmin** à l’aide des identifiants fournis par votre hébergeur. Votre compte devrait être accessible via une URL standard associée à votre nom de domaine ou au nom de domaine de l’hébergeur.
@@ -177,7 +183,7 @@ Certaines sont utilisées soit par phpMyAdmin, soit par l’hébergeur ; n’y t
 
 Venons-en à l’installation de PrestaShop à proprement parler.
 
-L’installateur automatique de PrestaShop rend le processus d’installation relativement simple. Quelques minutes vous suffiront normalement pour procéder à l’installation. Assurez-vous de lire chaque page attentivement afin de ne manquer aucune information.
+L’installateur automatique de PrestaShop rend le processus d’installation relativement rapide et direct. Quelques minutes vous suffiront normalement pour procéder à l’installation. Assurez-vous de lire chaque page attentivement afin de ne manquer aucune information.
 
 Pour lancer l’installateur,
 
@@ -204,9 +210,7 @@ Cette page est une présentation rapide du processus d’installation. Vous pouv
 Cette étape vous permettra de **définir la langue par défaut de votre installation de PrestaShop**, mais vous aurez aussi la possibilité d’activer d’autres langues.
 
 {% hint style="info" %}
-Vous avez également un lien vers le site de la documentation ([https://docs.prestashop-project.org](https://docs.prestashop-project.org/v.8-documentation/v/english/)) et un lien vers notre offre de support.&#x20;
-
-Pour en savoir plus sur notre service de support, rendez-vous sur [https://prestashop.fr/support/](https://prestashop.fr/support/).
+Vous avez aussi accès à la documentation du projet ([https://docs.prestashop-project.org/welcome/](https://docs.prestashop-project.org/welcome/)) et au blog du projet ([https://build.prestashop-project.org/](https://build.prestashop-project.org/))&#x20;
 {% endhint %}
 
 ## **Étape 2 : licences de PrestaShop**
@@ -254,38 +258,43 @@ Si une erreur se produit, l’installateur s’arrête et vous pouvez consulter 
 
 Voici une liste des tests réalisés durant la troisième étape :
 
-| **Test**                                                            | **Comment/où régler le problème ?**                                                                           |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| La version PHP 5.6 (ou une version ultérieure) est-elle installée ? | Serveur web                                                                                                   |
-| PrestaShop peut-il mettre des fichiers en ligne ?                   | Fichier php.ini (`file_uploads`)                                                                              |
-| PrestaShop peut-il créer de nouveaux fichiers et dossiers ?         | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| La bibliothèque GD est-elle installée ?                             | Fichier php.ini (`extension=`[php\_gd2.so](http://php\_gd2.so))                                               |
-| La prise en charge de MySQL est-elle activée ?                      | Fichier php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so))                                 |
-| Permission d’écriture récursive sur \~/config/                      | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/cache/                       | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/log/                         | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/img/                         | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/mails/                       | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/modules/                     | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/override/                    | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/themes/default/lang/         | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/themes/default/pdf/lang/     | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/themes/default/cache/        | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/translations/                | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/upload/                      | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/download/                    | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| Permission d’écriture récursive sur \~/sitemap.xml                  | Explorateur de fichiers / client FTP / ligne de commande                                                      |
-| PrestaShop peut-il ouvrir des URL externes ?                        | Fichier [php.in](http://php.in) (`allow_url_fopen`)                                                           |
-| L’option “register global” de PHP est-elle désactivée ?             | Fichier php.ini (`register_globals`)                                                                          |
-| La compression GZIP est-elle activée ?                              | Fichier .htaccess                                                                                             |
-| L’extension Mcrypt est-elle disponible ?                            | Fichier php.ini (voir [http://php.net/manual/fr/mcrypt.setup.php](http://php.net/manual/en/mcrypt.setup.php)) |
-| L’option “magic quotes” de PHP est-elle désactivée ?                | Fichier php.ini (`magic_quotes_gpc`)                                                                          |
-| L’extension Dom est-elle chargée ?                                  | `--enable-dom`, option d’heure de compilation                                                                 |
-| L’extension PDO MySQL est-elle chargée ?                            | Fichier php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so))                                 |
+| **Test**                                                                     | **Comment/où régler le problème ?**                                                                           |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Est-ce qu'une version compatible de PHP est installée ?                      | Serveur web                                                                                                   |
+| PrestaShop peut-il mettre des fichiers en ligne ?                            | Fichier php.ini (`file_uploads`)                                                                              |
+| PrestaShop peut-il créer de nouveaux fichiers et dossiers ?                  | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| La bibliothèque GD est-elle installée ?                                      | Fichier php.ini (`extension=`[php\_gd2.so](http://php\_gd2.so))                                               |
+| La prise en charge de MySQL est-elle activée ?                               | Fichier php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so))                                 |
+| Permission d’écriture récursive sur \~/config/                               | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/cache/                                | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/log/                                  | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/img/                                  | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/mails/                                | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/modules/                              | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/override/                             | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/themes/default\_theme\_name/lang/     | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/themes/default\_theme\_name/pdf/lang/ | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/themes/default\_theme\_name/cache/    | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/translations/                         | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/upload/                               | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/download/                             | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d’écriture récursive sur \~/app/config/                           | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| Permission d'écriture récursive sur \~/app/Resources/translations/           | Explorateur de fichiers / client FTP / ligne de commande                                                      |
+| PrestaShop peut-il ouvrir des URL externes ?                                 | Fichier [php.in](http://php.in) (`allow_url_fopen`)                                                           |
+| L’option “register global” de PHP est-elle désactivée ?                      | Fichier php.ini (`register_globals`)                                                                          |
+| La compression GZIP est-elle activée ?                                       | Fichier .htaccess                                                                                             |
+| L’extension Mcrypt est-elle disponible ?                                     | Fichier php.ini (voir [http://php.net/manual/fr/mcrypt.setup.php](http://php.net/manual/en/mcrypt.setup.php)) |
+| L’option “magic quotes” de PHP est-elle désactivée ?                         | Fichier php.ini (`magic_quotes_gpc`)                                                                          |
+| L’extension Dom est-elle chargée ?                                           | `--enable-dom`, option d’heure de compilation                                                                 |
+| L’extension PDO MySQL est-elle chargée ?                                     | Fichier php.ini (`extension=`[php\_pdo\_mysql.so](http://php\_pdo\_mysql.so))                                 |
 
 ### Mettre à jour les droits d'accès aux fichiers
 
-La modification de la configuration de PHP doit être expliquée en détail : elle s'effectue au cas par cas et elle dépend de votre niveau d’accès à votre serveur.
+La modification de la configuration de PHP doit être expliquée en détail : elle s'effectue au cas par cas et elle dépend de votre niveau d’accès à votre serveur. Si votre serveur ne répond pas aux exigences, contactez le service d'assistance de votre hébergeur.
+
+{% hint style="warning" %}
+Sur la plupart des serveurs, vous ne devriez pas être obligé de modifier les autorisations. Contactez d'abord le support de l'hébergement pour consulter la configuration si vous devez le faire.
+{% endhint %}
 
 En revanche, la mise à jour des permissions d’accès aux fichiers est plus facile à expliquer.
 
@@ -308,7 +317,7 @@ Vous trouverez une explication des permissions de fichiers ici : [http://www.mat
 Donner un “accès en écriture” à des fichiers ou dossiers se dit “faire un CHMOD 755” ou “un CHMOD 775”, en fonction de l’hébergeur.
 
 {% hint style="info" %}
-Certains hébergeurs peuvent vous demander d’utiliser CHMOD 777 bien que cela ne soit recommandé que pour un besoin ponctuel.
+Certains hébergeurs peuvent vous demander d’utiliser CHMOD 777 bien que cela ne soit recommandé **que pour un besoin ponctuel**.
 
 \
 Si vous devez faire un CHMOD 777 pour installer PrestaShop, faites en sorte de repasser à un réglage plus sûr (par exemple, 775 pour les dossiers et 664 pour les fichiers) après avoir terminé l’installation.
@@ -358,7 +367,13 @@ C’est également dans cette section que vous choisissez le mot de passe pour v
 
 Cliquez sur **“Suivant”** pour continuer.
 
-## **Étape 5 : Configuration système**
+## **Étape 5 : Contenu de votre boutique**
+
+Cette page contient un formulaire qui vous permet de choisir les modules à installer dans votre boutique et d'accepter ou de refuser les produits de démonstration.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## **Étape 6 : Configuration système**
 
 Cette page contient un formulaire vous permettant d’indiquer à PrestaShop l’emplacement du serveur de bases de données et la base de données à utiliser, ainsi que quelques autres détails.&#x20;
 
@@ -394,13 +409,13 @@ Cette opération peut prendre quelques minutes : veuillez patienter et ne pas to
 
 L’installateur effectue les opérations suivantes :
 
-* Crée le fichier `settings.inc.php` et indique vos paramètres.
+* Crée les fichiers de configuration et indique vos paramètres.
 * Crée les tables de base de données.
 * Crée la boutique par défaut avec ses langues par défaut.
 * Renseigne les tables de la base de données.
 * Configure les informations de la boutique.
-* Installe les modules par défaut.
-* Installe les données de démonstration (produits, catégories, utilisateurs, pages CMS, etc.).
+* Installe les modules sélectionnés.
+* Installe les données de démonstration si vous avez choisi de les garder (produits, catégories, utilisateurs, pages CMS, etc.).
 * Installe le thème.
 
 Une fois cette étape terminée, votre boutique est installée et prête à être configurée.
@@ -420,7 +435,7 @@ Pour renforcer facilement la sécurité de votre installation, supprimez certain
 Cliquez sur le bouton **“Gérer votre boutique”** afin d’atteindre votre zone d’administration.
 
 {% hint style="info" %}
-Un autre moyen de sécuriser votre installation est d’utiliser un nom personnalisé pour le dossier d’administration : remplacez le nom du dossier “admin” par un nom que vous seul connaissez comme “4dmin-1537” ou “MySecReT4dm1n”.
+Un autre moyen de sécuriser votre installation est d’utiliser un nom personnalisé pour le dossier d’administration : remplacez le nom du dossier “admin” par un nom que vous seul connaissez comme “4dmin-1537” ou “MySecUReD4dm1n”.
 {% endhint %}
 
 **Notez le nouveau nom de votre dossier “admin”** car vous accéderez désormais à vos pages d’administration en utilisant cette adresse !
